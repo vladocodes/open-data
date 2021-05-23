@@ -1,0 +1,71 @@
+﻿redni_br,vrsta,naziv,ulica_broj,mjesna_zajednica,napomena,latitude,longitude,telefon,email,web_stranica
+0,,Centar za predškolsko vaspitanje I obrazovanje,Jovana Dučića 3,Centar II,,44.7722073,17.1832189,+387 51 490 532,centar@vrticibl,https://vrticibl.org/
+1,gradski vrtić,"Dječiji vrtić ""Plavi čuperak""",Živojina Mišića 15,Borik I,"jaslice, poludnevni boravak",44.771149,17.20086,+387 51 490 541,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BF%D0%BB%D0%B0%D0%B2%D0%B8-%D1%87%D1%83%D0%BF%D0%B5%D1%80%D0%B0%D0%BA/
+2,gradski vrtić,"Dječiji vrtić  ""Bambi""",Ravnogorska 20,Nova Varoš,"jaslice, poludnevni boravak",44.7806508,17.1954942,+387 51 490 547,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%B1%D0%B0%D0%BC%D0%B1%D0%B8/
+3,gradski vrtić,"Dječiji vrtić  ""Bubamara""",Braće Jugovića 1,Obilićevo I,jaslice,44.7607132,17.1918553,+387 51 490 544,,http://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%B1%D1%83%D0%B1%D0%B0%D0%BC%D0%B0%D1%80%D0%B0/
+4,gradski vrtić,"Dječiji vrtić  ""Kolibri""",Petra Pecije 65,Lazarevo II,"jaslice, poludnevni boravak",44.7977614,17.2028436,+387 51 490 527,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BA%D0%BE%D0%BB%D0%B8%D0%B1%D1%80%D0%B8/
+5,gradski vrtić,"Dječiji vrtić ""Marija Mažar""",Pionirska bb,Obilićevo I,"jaslice, vaspitno obrazovni rad I boravak djece sa posebnim potrebama",44.7573899,17.1823255,+387 51 490 529,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BC%D0%B0%D1%80%D0%B8%D1%98%D0%B0-%D0%BC%D0%B0%D0%B6%D0%B0%D1%80/
+6,gradski vrtić,"Dječiji vrtić  ""Naša djeca""",Save Mrkalja 7,Centar I,"jaslice, poludnevni boravak",44.7720885,17.1848842,+387 51 490 537,,http://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BD%D0%B0%D1%88%D0%B0-%D0%B4%D1%98%D0%B5%D1%86%D0%B0/
+7,gradski vrtić,"Dječiji vrtić  ""Nataša""",Kordunaška bb,Borik I,,44.7706485,17.2067279,+387 51 490 545,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BD%D0%B0%D1%82a%D1%88%D0%B0/
+8,gradski vrtić,"Dječiji vrtić ""Neven""",Srđe Zlopogleđe 42,Obilićevo II,"jaslice, poludnevni boravak",44.7622706,17.1933833,+387 51 490 530,,http://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BD%D0%B5%D0%B2%D0%B5%D0%BD/
+9,gradski vrtić,"Dječiji vrtić  ""Radost""",Kralja Nikole 32,Bulevar,"jaslice, poludnevni boravak",44.7656704,17.1800816,+387 51 490 524,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82/
+10,gradski vrtić,"Dječiji vrtić  ""Ježeva kućica""",Kralja Petra I Karađorđevića 88,Centar II,jaslice,44.7768737,17.1942368,+387 51 490 546,,http://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D1%98%D0%B5%D0%B6%D0%B5%D0%B2%D0%B0-%D0%BA%D1%83%D1%9B%D0%B8%D1%86%D0%B0/
+11,gradski vrtić,"Dječiji vrtić  ""Lana""",Kralja Petra II 65,Rosulje,jaslice,44.7877175,17.1984863,+387 51 490 522,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BB%D0%B0%D0%BD%D0%B0/
+12,gradski vrtić,"Dječiji vrtić ""Leptirić""",Novice Cerovića 21,Borik I,jaslice,44.7682783,17.1987855,+387 51 490 540,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BB%D0%B5%D0%BF%D1%82%D0%B8%D1%80%D0%B8%D1%9B/
+13,gradski vrtić,"Dječiji vrtić ""Pčelica""",Sime Šolaje 12,Centar I,jaslice,44.7731076,17.191786,+387 51 490 523,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BF%D1%87%D0%B5%D0%BB%D0%B8%D1%86%D0%B0/
+14,gradski vrtić,"Dječiji vrtić  ""Pinokio""",Beogradska 19,Borik I,jaslice,44.7690895,17.2017574,+387 51 490 539,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BF%D0%B8%D0%BD%D0%BE%D0%BA%D0%B8%D0%BE/
+15,gradski vrtić,"Dječiji vrtić  ""Prvi koraci""",Sime Miljuša 16,Starčevica,jaslice,44.7605208,17.20579,+387 51 490 528,,https://vrticibl.org/%D0%B1%D1%80%D1%82%D0%B8%D1%9B-%D0%BF%D1%80%D0%B2%D0%B8-%D0%BA%D0%BE%D1%80%D0%B0%D1%86%D0%B8/
+16,gradski vrtić,"Dječiji vrtić  ""Srećno djetinjstvo""",Karađorđeva 237,Lauš I,jaslice,44.7788709,17.1675588,+387 51 490 525,,http://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D1%81%D1%80%D0%B5%D1%9B%D0%BD%D0%BE-%D0%B4%D1%98%D0%B5%D1%82%D0%B8%D1%9A%D1%81%D1%82%D0%B2%D0%BE/
+17,gradski vrtić,"Dječiji vrtić  ""Sunce""",Sime Matavulja 10,Centar I,jaslice,44.7730401,17.1823707,+387 51 490 536,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D1%81%D1%83%D0%BD%D1%86%D0%B5/
+18,gradski vrtić,"Dječiji vrtić ""Tijana""",Fredrika Garsije Lorke 19,Nova Varoš,jaslice,44.7776594,17.188081, +387 51 490 526,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D1%82%D0%B8%D1%98%D0%B0%D0%BD%D0%B0/
+19,gradski vrtić,"Dječiji vrtić  ""Luna""",Krfska 76,Obilićevo II,jaslice,44.7577857,17.1923831,+387 51 490 548,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BB%D1%83%D0%BD%D0%B0/
+20,gradski vrtić,"Dječiji vrtić  ""Dora""",Užička bb,Lauš II,,44.7774129,17.1678075,+387 51 490 531,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%B4%D0%BE%D1%80%D0%B0/
+21,gradski vrtić,"Dječiji vrtić  ""Cvrčak""",Krfska 84,Obilićevo II,jaslice,44.7581417,17.1935129,+387 51 491 370,,http://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D1%86%D0%B2%D1%80%D1%87%D0%B0%D0%BA/
+22,gradski vrtić,"Dječiji vrtić  ""Srna""",Josifa Pančića 2,Starčevica,jaslice,44.7635904,17.2088218,+387 51 491 371,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D1%81%D1%80%D0%BD%D0%B0/
+23,gradski vrtić,"Dječiji vrtić  ""Poletarac""",Marka Kraljevića 22,Obilićevo II,,44.7591679,17.1933534,+387 51 492 278,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%80%D0%B0%D1%86/
+24,gradski vrtić,"Dječiji vrtić  ""Palčica""",Kralja Petra II 71,Rosulje,,44.7879136,17.1952378,+387 51 492 174,,https://vrticibl.org/%D0%B2%D1%80%D1%82%D0%B8%D1%9B-%D0%BF%D0%B0%D0%BB%D1%87%D0%B8%D1%86%D0%B0/
+25,gradski vrtić,"Dječiji vrtić ""Mali drugari""",I Krajiške brigade narodne odbrane 1,Starčevica,,44.7594674,17.2055456,+387 51 498 206,,
+26,gradski vrtić,"Vrtić ""Anđelak""",Sime Šolaje 3,Centar I,,44.7730768,17.1939645,+387 51 304 955,vrticandjelakbanjaluka@gmail.com,
+27,privatni vrtić,"Klub za djecu ""Petar Pan""",Srđe Zlopogleđe 1,Obilićevo II,,44.7609372,17.193938,+387 51 468 348,info@vrticpetarpan.com,
+28,privatni vrtić,"Klub za djecu ""Čarolija""",Tromeđe 1,Petrićevac,,44.7941992,17.1920403,+387 65 562 408,vrtic.carolija@gmail.com,
+29,privatni vrtić,"Klub za djecu ""Maslačak""",Majevička 24,Petrićevac,,44.7898866,17.1813121,+387 65 231 485,p.u.maslacak@gmail.com,
+30,privatni vrtić,"Klub za djecu ""Pipi duga čarapa""",Carice Milice 17a,Obilićevo II,,44.7647233,17.1912855,+387 65 344 447,pipidugacarapa@gmail.com,
+31,privatni vrtić,"Klub za djecu""Minja""",Dr. Vojislava Đede Kecmanovića 2a,Starčevica,jaslice,44.7654837,17.2097504,,,
+32,privatni vrtić,"Klub za djecu ""Zvjezdica""",Jovana Dučića 50,Nova Varoš,,44.7767288,17.1868815,+387 51 302 630,zvjezdicabl@gmail.com,
+33,privatni vrtić,"Klub za djecu ""101 Dalmatinac""",Put srpskih branilaca 201,Lazarevo I,,44.8237543,17.214269,,,
+34,privatni vrtić,"Klub za djecu ""A & L.B.""",Branka Popovića 56,Lazarevo I,,44.8151708,17.2112294,+387 66 772 974,vrticandrej.bl@hotmail.com,
+35,privatni vrtić,"Klub za djecu ""Nani""",Ramići bb,Zalužani,,44.8554878,17.1645166,+387 51 393 420,,
+36,privatni vrtić,"Igraonica ""Veseli oblačić""",Janka Veselinovića 9,Rosulje,,44.7825884,17.2034619,,,
+37,privatni vrtić,"Klub za djecu ""Kod bake""",Dr. Mladena Stojanovića 83,Rosulje,,44.7824128,17.2006484,+387 66 122 812,,https://vrticandjeo.com/
+38,privatni vrtić,"Klub za djecu ""Anđeo""",Trive Amelice 56,Rosulje,jaslice,44.7862378,17.194493,+387 65 003 311,,http://www.vrticsreca.ba/
+39,privatni vrtić,"Klub za djecu ""Sreća""",Petra Preradovića 7a,Nova Varoš,,44.7778635,17.1862681,+387 65 512 100,dijana.sormaz@gmail.com,http://www.pertlica.com/
+40,privatni vrtić,"""Dvojezični klub za djecu Pertlica""",Srpska 5,Centar I,dvojezični vrtić,44.771425,17.1884107,+387 51 214 004,vrtic@pertlica.com,http://www.vrticbajka-bl.com/
+41,privatni vrtić,"Klub za djecu ""Bajka""",Jevrejska 22,Centar I,,44.771425,17.1884107,+387 66 877 575,,
+42,privatni vrtić,"Klub za djecu ""Mašta""",XIV srednjobosanske brigade 41,Nova Varoš,jaslice,44.7847543,17.1901596,+387 66 836 409,vrtic.masta@gmail.com,
+43,privatni vrtić,"Klub za djecu ""Cvrčak i mrav""",Njegoševa 115,Nova Varoš,,44.7847543,17.1901596,+387 65 566 972,pucvrcakimrav@gmail.com,
+44,privatni vrtić,"Klub za djecu ""Montessori""",Njegoševa 45,Petrićevac,,44.7848162,17.1878937,+387 66 807 364,,http://www.vrticdanilo.com/
+45,privatni vrtić,"Klub za djecu ""Danilo""",Bulevar vojvode Stepe Stepanovića 165a,Starčevica,,44.7781064,17.1802104,+387 65 695 393,vrticdanilo@gmail.com,
+46,privatni vrtić,"Klub za djecu ""Pahuljica""",Carice Milice 17,Obilićevo II,,44.7648514,17.1748266,+387 66 857 123,,
+47,privatni vrtić,"Klub za djecu ""Kockica""",Braće Podgornika 47,Bulevar,,44.7909727,17.2090596,+387 65 880 180,vrtickockica@gmail.com,
+48,privatni vrtić,"Dječiji vrtić ""Liliput""",Bulevar Desanke Maksimović 16,Starčevica,,44.7614766,17.2006353,+387 66 070 000,novivrtic.bl@hotmail.com,
+49,privatni vrtić,"Klub za djecu ""Čarobni svijet""",Šargovačka 31,Šargovac,,44.8183771,17.1921189,+387 66 836 409,vrticcarobnisvijet1@gmail.com,
+50,privatni vrtić,"Klub za djecu ""Pačija škola""",Put srpskih branilaca 201,Zalužani,,44.8361403,17.2187627,+387 65 437 959,jovica.aleksic@yahoo.com,
+51,privatni vrtić,"Klub za djecu ""Ciciban""",Nikole Pašića 9,Centar I,,44.7690265,17.1937216,+387 51 311 121,cicibanbl@hotmail.com,
+52,privatni vrtić,"Klub za djecu ""Ljutko""",Knjaza Miloša 39,Lazarevo II,,44.7980378,17.2053789,+387 66 377 955,vrticljutko@gmail.com,
+53,privatni vrtić,"Klub za djecu ""Maslačak 2""",Bulevar Cara Dušana 4,Bulevar,,44.7697804,17.184133,,,
+54,privatni vrtić,"Klub za djecu ""Zvjezdica""",Branka Radičevića 16,Centar II,,44.773522,17.1855273,+387 51 302 631,zvjezdicabl@gmail.com,
+55,privatni vrtić,"Klub za djecu ""Zvjezdica""",Slobodana Kusturića 15,Starčevica,,44.7637041,17.2009034,+387 51 302 634,zvjezdicabl@gmail.com,
+56,privatni vrtić,"Klub za djecu ""Mrav""",Mladena Oljače 19,Petrićevac,,44.7906163,17.185834,+387 65 566 972,pucvrcakimrav@gmail.com,
+57,privatni vrtić,"Klub za djecu ""Piccolini""",Majevička 3,Petrićevac,,44.787808,17.1735886,+387 65 915 531,odmalihnogu@gmail.com,
+58,privatni vrtić,"Klub za djecu ""Miki Maus""",Milana Cvijetinovića 55,Lazarevo I,,44.7955697,17.2044563,+387 65 642 831,,
+59,privatni vrtić,"Dječiji vrtić ""Montessori Kindergarten""",Krajiških brigada 233a,Centar II,,44.781617,17.1877633,+387 65 586 317,info@montessori.ba,
+60,privatni vrtić,"Klub za djecu ""Mali princ""",Karađorđeva 147,Lauš I,,44.7750206,17.1703798,+387 65 222 205,nikolina.maliprinc@gmail.com,
+61,privatni vrtić,"Klub za djecu ""Mali princ 1""",Nikole Pašića 11,Centar I,,44.7690228,17.1937215,+387 65 222 205,nikolina.maliprinc@gmail.com,
+62,privatni vrtić,"Klub za djecu ""Kuća radosti - Bambinosi""",Stevana Mokranjca 2,Nova Varoš,,44.779763,17.1899555,+387 66 277 435,vrticbambini@gmail.com,
+63,privatni vrtić,"Klub za djecu ""Lane i lav""",Ulica palih boraca 80,Ada,,44.7638718,17.2282121,+387 51 462 324,laneilav@gmail.com,
+64,privatni vrtić,"Klub za djecu ""Diznilend""",Peti prigradski put 10,Ada,,44.7667571,17.2261802,+387 66 192 192,vrticdiznilendbl@gmail.com,
+65,privatni vrtić,"Klub za djecu ""Sveznalice""",Bulevar Stepe Stepanovića 185a,Starčevica,,44.7665669,17.2059272,+387 64 408 4850,sveznalicedoo@gmail.com,
+66,privatni vrtić,"Klub za djecu ""Carstvo mašte""",Ramići 201a,Ramići,,,,+387 65 779 684,,
+67,privatni vrtić,"""Dvojezični klub za djecu ZabavniIQ""",Bulevar vojvode Stepe Stepanovića 197a,Starčevica,,44.7664307,17.2148906,+387 66 613 662,puzabavniq@gmail.com,
+68,privatni vrtić,"Klub za djecu ""Štrumfovi""",Bulevar vojvode Stepe Stepanovića 197a,Starčevica,,44.7664307,17.2148906,+387 65 762 377,strumfovibl@hotmail.com,
+69,privatni vrtić,"Klub za djecu ""Čarolija""",Vase Vidovića 50,Drakulić,,44.7939942,17.1941842,+387 65 642 831,,
