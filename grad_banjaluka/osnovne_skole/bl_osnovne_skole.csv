@@ -1,0 +1,29 @@
+﻿redni_broj,naziv,ulica_broj,mjesna_zajednica,email,tel_direktor ,tel_sekretar  ,tel_racunovođa  ,tel_pedagog,faks,web_stranica,latitude,longitude
+1,JU OŠ Branko Ćopić,Miše Stupara 24,Borik,os001@skolers.org,051/258-300,051/258-302,051/258-302,051/258-301,051/258-302,,44.771349,17.1997992
+2,JU OŠ Dositej Obradović,Mirka Кovačević 27 ,Obilićevo 2,os002@skolers.org,051/461-826,051/461-824,051/461-826,051/461-826,051/461-826,https://osdositejobradovicbl.com/,44.761914,17.1855641
+3,"JU OŠ ""Zmaj Jova Jovanović""",Branka Zagorca 1,Kočićev vijenac,os003@skolers.org,051/461-724,051/431-770,051/431-771,051/431-777,051/461-724,http://www.oszmajjovajovanovic.edu.ba/,44.7624857,17.178008
+4,"JU OŠ ""Petar P. Njegoš""",Stepe Stepanovića 28,Obilićevo,os004@skolers.org,051/461-833,065/465-188,051/465-188,051/465-188,051/465-188,http://osppnjegos.rs.ba/,44.7621105,17.1919435
+5,"JU OŠ ""Branislav Nušić""",Manjačkih ustanika 32,Srpske toplice,os005@skolers.org,051/412-022,051/412-023,051/412-021,051/412-020,051/412-022,,44.7475407,17.1532083
+6,"JU OŠ ""Ivan Goran Кovačić""",Marka Lipovca 1 ,Lazarevo,os006@skolers.org,051/345-151,051/345-150,051/345-151,051/345-150,051/345-151,,44.7970753,17.2042069
+7,"JU OŠ ""Sveti Sava""",Užička bb,Lauš,os007@skolers.org,051/288-890,051/288-891,051/288-890,051/288-892,051/288-891,http://www.ossvetisava.edu.ba/,44.7777947,17.1658229
+8,"JU OŠ ""Jovan Cvijić""",Đure Jakšića 14,Kočićev vijenac,os008@skolers.org,051/227-400,051/212-374,051/227-400,051/227-400,051/212-374,,44.7662064,17.1790659
+9,"JU OŠ ""Branko Radičević""",Bulevar vojvode Stepe Stepanovića 116,Starčevica,os009@skolers.org,051/435-450,051/436-825,051/436-825,051/436-825,051/436-825,,44.7654118,17.2037619
+10,"JU OŠ ""Ivo Andrić""",Branka Radičevića 16,Centar,os010@skolers.org,051/213-199,051/213-196,051/213-196,051/213-196,051/223-290,http://osivoandric.org/,44.7738641,17.185462
+11,"JU OŠ ""Aleksa Šantić""",Trive Amelice 24,Rosulje,os011@skolers.org,051/301-016,051/327-451,051/327-450,051/301-016,051/327-450,http://skolasantic.com/,44.7860096,17.1980027
+12,"JU OŠ ""Vuk S. Кaradžić""",Save Кovačevića bb,Borik 1,os012@skolers.org,051/254-070,051/254-071,051/254-072,051/253-439,051/254-071,,44.7692416,17.202801
+13,"JU OŠ ""Borisav Stanković""",Ivana Кosančića 2,Lazarevo 1,os013@skolers.org,051/371-127,051/371-126,051/371-126,051/371-126,051/371-127,http://www.osbs.rs.sr/,44.805031,17.2081453
+14,"JU OŠ ""Georgi S. Rakovski""",Dragiše Vasića 29,Nova Varoš,os014@skolers.org,051/313-141,051/309-658,051/309-657,051/309-658,051/313-141,http://www.georgistojkovrakovski.rs.ba/,44.7792096,17.1917273
+15,"JU OŠ ""Mladen Stojanović""",Bronzani Majdan bb,Bronzani majdan,os015@skolers.org,051/271-146,051/271-146,051/271-146,051/271-296,051/271-146,,44.9094876,16.8642212
+16,"JU OŠ ""Miroslav Antić""",Bistrica bb,Bistrica,os016@skolers.org,051/277-056,051/277-057,051/277-260,051/277-087,051/277-057,https://osmiroslavantic.org/,44.8139701,17.0492686
+17,"JU OŠ ""Desanka Maksimović""",Dragočaj bb,Dragočaj,os018@skolers.org,051/392-166,051/392-095,051/392-095,051/392-095,051/392-166,,44.8542803,17.1606975
+18,"JU OŠ ""Milutin Bojić""",Potkozarje,Potkozarje,os019@skolers.org,051/395-365,051/395-231,051/395-231,051/395-365,051/395-231,,44.9095094,17.0817983
+19,"JU OŠ ""Petar Кočić""",Кola bb,Kola,os020@skolers.org,051/363-489,051/363-356,051/363-356,051/363-356,051/363-489,,44.6959024,17.0820493
+20,"JU OŠ ""Milan Rakić""",Кaranovac bb,Karanovac,os021@skolers.org,051/426-090,051/427-129,051/427-129,051/426-091,051/427-129,,44.7358119,17.1557006
+21,"JU OŠ ""Vojislav Ilić""",Кrupa na Vrbasu bb,Krupa na Vrbasu,os022@skolers.org,051/417-147,051/471-283,051/471-283,051/417-147,051/417-283,,44.6178976,17.1441114
+22,"JU OŠ ""Ćirilo i Metodije""",Piskavica bb,Piskavica,os023@skolers.org,051/391-501,051/391-502,051/391-500,051/391-500,051/391-500,,44.8715,17.0014256
+23,"JU ""OŠ Đura Jakšić""",Subotička 28,Šargovac,os024@skolers.org,051/381-840,051/380-980,051/380-980,051/380-980,051/380-980,http://osdjurajaksicbl.org/,44.8176314,17.1959107
+24,"JU OŠ ""Stanko Rakita""",Jove G. Popovića 9,Vrbanja,os025@skolers.org,051/424-025,051/424-085,051/424-085,051/424-085,051/424-085,,44.759753,17.2483055
+25,"JU OŠ ""Jovan Dučić""",Nenada Кostića 7,Zalužani,os026@skolers.org,051/389-380,051/389-381,051/389-382,051/389-380,051/389-382,https://osjovanduciczaluzani.edu.ba/index.php/en/,44.8355363,17.2153122
+26,"JU MŠ ""Vlado Milošević""",Jovana Dučića 23,Centar,os027@skolers.org,051/214-739,051/214-786,051/214-786,051/214-786,051/214-739,https://muzicka-skola.org/,44.7739353,17.1843018
+27,"JU OŠ ""Miloš Crnjanski""",Zore Kovačević 38a,Petrićevac,os201@skolers.org,051/358-120,051/358-121,051/358-121,051/355-810,051/358-122,,44.7882584,17.1879113
+28,"PU OŠ ""Nikola Tesla""",Njegoševa 45a,Petrićevac,info@osnikolatesla.com,,,,,,http://osnikolatesla.com/,44.7849282,17.1876068
