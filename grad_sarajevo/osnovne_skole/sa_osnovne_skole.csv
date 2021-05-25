@@ -1,0 +1,82 @@
+﻿redni_broj,naziv,ulica_broj,telefon,fax,web_stranica,email
+1,"""AL AMEL"" Sarajevo",Osik 8,230-294,230-294,http://alamelschools.ba/en/home/,
+2,Centar “Vladimir Nazor”,Azize Šaćirbegović 80,650-196,641-354,https://www.vladimirnazor.edu.ba,v.nazor@hotmail.com 
+3,Centar za slijepu i slabovidnu djecu i omladinu,Aleje Bosne srebrene 22,"473-019, 460-745, 455-483",473-020,https://www.czsd.edu.ba,centarczsd@gmail.com
+4,Centar za slušnu i govornu rehabilitaciju,Asima Ferhatovića 2,"033/211-790, 033/226-977",033/226-977,https://www.cersig.edu.ba,cersig@bih.net.ba
+5,Četvrta osnovna škola - Ilidža,Put Famosa 33,698-202,698-203,https://www.oscetvrta.edu.ba,cetvrta.osnovna@bih.net.ba
+6,Deseta osnovna škola Ilidža,Osik 210,564-540,230-209,https://desetaosnovna.edu.ba/,desetaosnovna@gmail.com
+7,Deveta osnovna škola,Rakovička cesta 339,428-415,428-416,https://www.osdeveta.edu.ba,deveta.osnovna@gmail.com
+8,Druga osnovna škola - Ilidža,"Školska 1, Hrasnica",514-137,510-640,https://www.osdruga.edu.ba,drugaosnovna@ymail.com
+9,Francuska osnovna škola CIFS Sarajevo,Paromlinska 66,444-405,444-405,https://www.cifs.edu.ba/,info@cifs.edu.ba
+10,"JU Osnovna škola ""Aneks""",Vrbovska bb,033/658-883,033/658-883,https://osaneks.edu.ba/,osnovnaskolaaneks@gmail.com
+11,Katolički školski centar - Osnovna škola Centar,Mehmed paše Sokolovića 11,665-521,653-506,http://ksc-sarajevo.com/,osnovna.skola@ksc-sarajevo.com
+12,Međunarodna njemačka škola Sarajevo - Internationale Deutsche Schule Sarajevo,Buka 11-13,+387 33 560-520,,https://idss.edu.ba/,info@idss.ba
+13,"Međunarodna osnovna škola „Richmond Park International Primary school""",Francuske revolucije bb,944-140,660-080,https://www.internationalschool.ba,https://www.oshadzici.edu.ba/
+14,OŠ “Mehmed Handžić”,Lužani bb - Ilidža,626-077,764-111,https://www.osmh.edu.ba,https://www.oshadzici.edu.ba/
+15,OŠ “Đulistan”,Lješevo - Ilijaš,403-321,402-487,https://www.djulistan.edu.ba,https://www.oshadzici.edu.ba/
+16,"OŠ ""Hadžići""","Hadželi bb, 71240 Hadžići","033/408-811, 033/408-810",033/408-810,https://www.oshadzici.edu.ba/,https://www.oshadzici.edu.ba/
+17,OŠ “ 6.mart ” Hadžići,Anđelka Lažetića 5,420-120,"420-120, 428-175",http://www.os6mart.edu.ba/,
+18,OŠ “9. maj” Hadžići-Pazarić,Bjelašnička 59,417-527,416-623,https://www.os9majpa.edu.ba,9maj@bih.net.ba
+19,OŠ “Al-Walidein-Gazzaz”,Hasiba Brankovića 2,235-507,235-488,,
+20,OŠ “Aleksa Šantić”,Branislava Nušića 95,"456-533, 461-300",461-300,https://www.osas.edu.ba,aleksa_santic@bih.net.ba
+21,OŠ “Alija Nametak”,Zaima Šarca 15,"652-297, 211-075",211-075,https://www.osansa.edu.ba,osansa.edu@osansa.edu.ba
+22,OŠ “Avdo Smailović”,Adema Buće 63-b,619-155,640-654,http://www.osasmailovic.edu.ba/,avsmail@bih.net.ba 
+23,OŠ “Behaudin Selmanović”,"Viteška 6, Briješće",780-020,033/780-021,https://www.osbs.edu.ba,os.bs@bih.net.ba
+24,OŠ “Ćamil Sijarić”,Braće Mulić 16,"544-301, 543-196",543-196,https://www.oscsijaricsa.edu.ba,oscamils1@gmail.com
+25,OŠ “Čengić Vila I”,Fetaha Bećirbegovića 2,653-759,640-220,https://www.oscvila1.edu.ba,info@oscvila1.edu.ba
+26,OŠ “Džemaludin Čaušević”,Prvomajska 24,611-651,713-820,https://www.oscausevic.edu.ba,os.dc@bih.net.ba
+27,OŠ “Edhem Mulabdić”,Konak 1,236-044,239-013,https://os-emulabdic.mozks-ksb.ba/,skola-opara@hotmail.com 
+28,OŠ “Fatima Gunić”,Nerkeza Smailagića 18,545-181,472-752,https://osfg.edu.ba/,osfatimagunic@yahoo.com
+29,OŠ “Grbavica II”,Behdžeta Mutevelića bb,642-642,651-121,https://www.osgrbavica2.edu.ba,osgrbavica2@lol.ba
+30,OŠ “Grbavica I”,Grbavička 14,"661- 278, 651-337",651-337,https://osgrbavica1.edu.ba/,osgrbavica1@hotmail.com 
+31,OŠ “Hamdija Kreševljaković”,Carina 2,272-720,272-720,https://www.oshk.edu.ba,oshkaimija@yahoo.com
+32,OŠ “Hasan Kaimija”,Cicin han 93,559-906,559-905,https://www.oshkaimija.edu.ba,oshkaimija@yahoo.com
+33,OŠ “Hasan Kikić”,Gorica 27,445-137,220-162,https://www.oshkikic.edu.ba,oshasankikic@gmail.com
+34,OŠ “Hašim Spahić” Ilijaš,Krajiška bb,400-996,400-458,http://oshs.edu.ba/,oskolahs@yahoo.com 
+35,OŠ “Hilmi ef. Šarić” Hadžići-Tarčin,Bratstva i jedinstva 38,428-395,419-150,https://www.oshilmi.edu.ba,oshilmi@bih.net.ba
+36,OŠ “Hrasno”,Porodice Ribar 2,"647-451, 651-120",651-120,https://www.oshrasno.edu.ba,oshrasno@yahoo.com
+37,OŠ “Isak Samokovlija”,Fra Anđela Zvizdovića 1,212-499,210-144,https://www.osis.edu.ba,info@osis.edu.ba
+38,OŠ “Izet Šabić” Hotonj – Vogošća,Donji Hotonj bb,481-090,481-089,https://www.osizetsabic.edu.ba,osizetsabic@bih.net.ba
+39,OŠ “Kovačići”,Zagrebačka 22a,615-878,615-879,http://www.oskovacici.edu.ba/,kovacici@bih.net.ba
+40,OŠ “Malta”,Marka Marulića 27,613-502,613-501,https://www.osmalta.edu.ba,skola.malta@gmail.com 
+41,OŠ “Mehmed beg Kapetanović Ljubušak”,Braće Begić 19,220-491,220-491,https://osmbkljsdg.co.ba/,
+42,OŠ “Mehmedalija Mak Dizdar”,Žrtava fašizma 14,644-897,650-807,https://www.osmmdsa.edu.ba,
+43,OŠ “Meša Selimović”,Geteova 16,543-113,542-899,https://www.osmssa.edu.ba,mesaselimovic1@gmail.com
+44,OŠ “Mirsad Prnjavorac” - Vogošća,Jošanička 51,430-910,430-911,https://www.osmp.edu.ba,prima97@bih.net.ba
+45,OŠ “Mula Mustafa Bašeskija”,Logavina 52,238-151,447-246,https://www.osmmbsa.edu.ba,skola@osmmbsa.edu.ba
+46,OŠ “Musa Ćazim Ćatić”,Čekaluša 53,216-567,208-567,http://osmccsa.edu.ba/v2/,musacazimc@gmail.com
+47,OŠ “Mustafa Busuladžić”,Ahatovićka 41,629-574,629-574,https://www.osdobrosevici.edu.ba,osmustafabusuladzic@gmail.com 
+48,OŠ “Nafija Sarajlić”,Patriotske lige 57,209-232,213-823,https://www.osnsarajlic.edu.ba/,info@osnsarajlic.edu.ba
+49,OŠ “Osman Nakaš”,Gradačačka 39,641-287,642-066,https://www.osonakas.edu.ba,ososmannakas@gmail.com
+50,OŠ “Osman Nuri Hadžić”,Lava Tolstoja 6,460-362,460-363,https://www.osonh.edu.ba,info@osonh.edu.ba 
+51,OŠ “Podlugovi“ Ilijaš,Žrtava genocida u Srebrenici 212,"401-017, 428-760",401-017,https://www.ospodlugovi.edu.ba/,skola.podlugovi@gmail.com
+52,OŠ “Pofalići”,Ivanjska 1,644-163,644-163,https://www.ospofalici.edu.ba,ospofalici@ospofalici.edu.ba
+53,OŠ “Porodice ef. Ramić” – Vogošća,Nova cesta 62,430-993,430-993,https://www.osramic.edu.ba,
+54,OŠ “Saburina”,Saburina 4,538-340,538-340,https://www.ossaburina.edu.ba,saburina@bih.net.ba
+55,OŠ “Safvet beg Bašagić”,Gimnazijska 1,"205-923, 204-707",204-707,https://www.ossbb.edu.ba,osnovnaskolasbb@gmail.com
+56,OŠ “Šejh Muhamed efendija Hadžijamaković”,Iza Hrida 11,532-324,233-429,https://www.ossmeh.edu.ba,
+57,OŠ “Skender Kulenović”,Bulevar Mimar Sinana bb,451-600,464-288,http://www.os-sk.edu.ba/,osskeso@bih.net.ba
+58,OŠ “Sokolje”,Numan paše Ćuprilića do 17,765-540,765-542,https://www.ossokolje.edu.ba,ossokolje@ossokolje.edu.ba
+59,OŠ “Srednje” Ilijaš,Srednje bb,489-047,489-047,https://www.ossrednje.edu.ba,osskolasrednje@bih.net.ba
+60,OŠ “Umihana Čuvidina”,Smaje Šikala 1,541-009,766-410,https://www.osuc.edu.ba,umihanac@bih.net.ba
+61,OŠ “Velešićki heroji”,Velešići 2,214-598,214-584,https://www.osvh.edu.ba,osvh@bih.net.ba
+62,OŠ “Vladislav Skarić”,Terezija 48,212-031,551-586,https://www.osvs.edu.ba,info_osvs@osvs.edu.ba
+63,OŠ “Vrhbosna”,Baruthana 60,240-100,240-100,https://www.osvrhbosna.edu.ba,osvrhbosna@osvrhbosna.edu.ba 
+64,OŠ “Zahid Baručija” – Vogošća,Omladinska 14,432-650,430-615,https://www.oszb.edu.ba,
+65,OŠ “Zaim Kolar” – Trnovo,Dejčići,"438-001 , 438-000",438-000,https://www.oszk.edu.ba,oszaimkolar@bih.net.ba
+66,OŠ “Zajko Delić” - Vogošća,Slatinski put 3,426-830,485-409,https://www.oszd.edu.ba,oszd@oszd.edu.ba
+67,Osma osnovna škola – Amer Ćenanović Ilidža,Ilirska 2 (Butmir),"771-316, 771-321",771-323,https://www.osmaosnovnail.edu.ba,osma2010@bih.net.ba
+68,Osnovna muzička i baletska škola Novo Sarajevo,Kemala Kapetanovića 43,651-523,710-861,http://www.ombsns.edu.ba/,info@ombsns.edu.ba
+69,Osnovna muzička škola - Ilidža,Josipa Slavenskog 24,623-400,623-170,httpss://muzickail.edu.ba/,info@muzickail.edu.ba
+70,Osnovna muzička škola “Mladen Pozajić”,Josipa Štadlera 1,212-410,444-234,https://www.omsmp.edu.ba,omsmp@omsmp.com.ba 
+71,OŠ“Silvije Strahimir Kranjčević”,Mehmed paše Sokolovića 2,219-825,221-338,https://www.ossskranjcevic.edu.ba,osssk@bih.net.ba
+72,Peta osnovna škola - Ilidža,Umihane Čuvidine 58,515-177,515-571,https://www.ospeta.edu.ba,petaosnovnaskola@yahoo.com
+73,Privatna osnovna škola “Bloom”,"Nalina 16, Stari Grad Sarajevo",033/207-899,033/865-564,https://www.bloom.edu.ba,
+74,Privatna ustanova Školski Centar Maarif Schools of Sarajevo (Škole „Maarif“ Sarajevo) - osnovna škola,Hasiba Brankovića 2A,062/271-004,,www.maarifschools.edu.ba,
+75,Prva osnovna škola - Ilidža,Mala aleja 15,639-575,639-574,https://www.osprvail.edu.ba,posili@bih.net.ba
+76,Prva privatna OŠ “Isa-beg Ishaković”,Banjalučka bb,957-496,957-495,httpss://www.isabeg.edu.ba/bs,info@isabeg.edu.ba
+77,Quality Schools International - International School of Sarajevo (QSIS Sarajevo),Omladinska broj 16,424-450,424-471,httpss://sarajevo.qsi.org/,sarajevo@qsi.org
+78,Sedma osnovna škola – Ilidža,Blažuj 118,761-630,761-630,https://www.sedma-osnovna.edu.ba,sedma.os@bih.net.ba
+79,Šesta osnovna škola - Ilidža,Barska bb Stup,623-405,626-783,https://www.ossesta.edu.ba,osnovna_skola_sesta@yahoo.co.uk
+80,Treća osnovna škola - Ilidža,Nasihe Kapidžić Hadžić 1,638-479,638-473,https://www.trecaosnovna.edu.ba,info@trecaosnovna.edu.ba
+81,Zavod “Mjedenica”,Mjedenica 34,207-963,207-962,https://zavodmjedenica.ba/,mjedenica@hotmail.com

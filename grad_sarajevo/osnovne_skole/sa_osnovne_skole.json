@@ -1,0 +1,731 @@
+﻿[
+    {
+        "redni_broj": "1",
+        "naziv": "\"AL AMEL\" Sarajevo",
+        "ulica_broj": "Osik 8",
+        "telefon": "230-294",
+        "fax": "230-294",
+        "web_stranica": "http://alamelschools.ba/en/home/",
+        "email": ""
+    },
+    {
+        "redni_broj": "2",
+        "naziv": "Centar “Vladimir Nazor”",
+        "ulica_broj": "Azize Šaćirbegović 80",
+        "telefon": "650-196",
+        "fax": "641-354",
+        "web_stranica": "https://www.vladimirnazor.edu.ba",
+        "email": "v.nazor@hotmail.com "
+    },
+    {
+        "redni_broj": "3",
+        "naziv": "Centar za slijepu i slabovidnu djecu i omladinu",
+        "ulica_broj": "Aleje Bosne srebrene 22",
+        "telefon": "473-019, 460-745, 455-483",
+        "fax": "473-020",
+        "web_stranica": "https://www.czsd.edu.ba",
+        "email": "centarczsd@gmail.com"
+    },
+    {
+        "redni_broj": "4",
+        "naziv": "Centar za slušnu i govornu rehabilitaciju",
+        "ulica_broj": "Asima Ferhatovića 2",
+        "telefon": "033/211-790, 033/226-977",
+        "fax": "033/226-977",
+        "web_stranica": "https://www.cersig.edu.ba",
+        "email": "cersig@bih.net.ba"
+    },
+    {
+        "redni_broj": "5",
+        "naziv": "Četvrta osnovna škola - Ilidža",
+        "ulica_broj": "Put Famosa 33",
+        "telefon": "698-202",
+        "fax": "698-203",
+        "web_stranica": "https://www.oscetvrta.edu.ba",
+        "email": "cetvrta.osnovna@bih.net.ba"
+    },
+    {
+        "redni_broj": "6",
+        "naziv": "Deseta osnovna škola Ilidža",
+        "ulica_broj": "Osik 210",
+        "telefon": "564-540",
+        "fax": "230-209",
+        "web_stranica": "https://desetaosnovna.edu.ba/",
+        "email": "desetaosnovna@gmail.com"
+    },
+    {
+        "redni_broj": "7",
+        "naziv": "Deveta osnovna škola",
+        "ulica_broj": "Rakovička cesta 339",
+        "telefon": "428-415",
+        "fax": "428-416",
+        "web_stranica": "https://www.osdeveta.edu.ba",
+        "email": "deveta.osnovna@gmail.com"
+    },
+    {
+        "redni_broj": "8",
+        "naziv": "Druga osnovna škola - Ilidža",
+        "ulica_broj": "Školska 1, Hrasnica",
+        "telefon": "514-137",
+        "fax": "510-640",
+        "web_stranica": "https://www.osdruga.edu.ba",
+        "email": "drugaosnovna@ymail.com"
+    },
+    {
+        "redni_broj": "9",
+        "naziv": "Francuska osnovna škola CIFS Sarajevo",
+        "ulica_broj": "Paromlinska 66",
+        "telefon": "444-405",
+        "fax": "444-405",
+        "web_stranica": "https://www.cifs.edu.ba/",
+        "email": "info@cifs.edu.ba"
+    },
+    {
+        "redni_broj": "10",
+        "naziv": "JU Osnovna škola \"Aneks\"",
+        "ulica_broj": "Vrbovska bb",
+        "telefon": "033/658-883",
+        "fax": "033/658-883",
+        "web_stranica": "https://osaneks.edu.ba/",
+        "email": "osnovnaskolaaneks@gmail.com"
+    },
+    {
+        "redni_broj": "11",
+        "naziv": "Katolički školski centar - Osnovna škola Centar",
+        "ulica_broj": "Mehmed paše Sokolovića 11",
+        "telefon": "665-521",
+        "fax": "653-506",
+        "web_stranica": "http://ksc-sarajevo.com/",
+        "email": "osnovna.skola@ksc-sarajevo.com"
+    },
+    {
+        "redni_broj": "12",
+        "naziv": "Međunarodna njemačka škola Sarajevo - Internationale Deutsche Schule Sarajevo",
+        "ulica_broj": "Buka 11-13",
+        "telefon": "+387 33 560-520",
+        "fax": "",
+        "web_stranica": "https://idss.edu.ba/",
+        "email": "info@idss.ba"
+    },
+    {
+        "redni_broj": "13",
+        "naziv": "Međunarodna osnovna škola „Richmond Park International Primary school\"",
+        "ulica_broj": "Francuske revolucije bb",
+        "telefon": "944-140",
+        "fax": "660-080",
+        "web_stranica": "https://www.internationalschool.ba",
+        "email": "https://www.oshadzici.edu.ba/"
+    },
+    {
+        "redni_broj": "14",
+        "naziv": "OŠ “Mehmed Handžić”",
+        "ulica_broj": "Lužani bb - Ilidža",
+        "telefon": "626-077",
+        "fax": "764-111",
+        "web_stranica": "https://www.osmh.edu.ba",
+        "email": "https://www.oshadzici.edu.ba/"
+    },
+    {
+        "redni_broj": "15",
+        "naziv": "OŠ “Đulistan”",
+        "ulica_broj": "Lješevo - Ilijaš",
+        "telefon": "403-321",
+        "fax": "402-487",
+        "web_stranica": "https://www.djulistan.edu.ba",
+        "email": "https://www.oshadzici.edu.ba/"
+    },
+    {
+        "redni_broj": "16",
+        "naziv": "OŠ \"Hadžići\"",
+        "ulica_broj": "Hadželi bb, 71240 Hadžići",
+        "telefon": "033/408-811, 033/408-810",
+        "fax": "033/408-810",
+        "web_stranica": "https://www.oshadzici.edu.ba/",
+        "email": "https://www.oshadzici.edu.ba/"
+    },
+    {
+        "redni_broj": "17",
+        "naziv": "OŠ “ 6.mart ” Hadžići",
+        "ulica_broj": "Anđelka Lažetića 5",
+        "telefon": "420-120",
+        "fax": "420-120, 428-175",
+        "web_stranica": "http://www.os6mart.edu.ba/",
+        "email": ""
+    },
+    {
+        "redni_broj": "18",
+        "naziv": "OŠ “9. maj” Hadžići-Pazarić",
+        "ulica_broj": "Bjelašnička 59",
+        "telefon": "417-527",
+        "fax": "416-623",
+        "web_stranica": "https://www.os9majpa.edu.ba",
+        "email": "9maj@bih.net.ba"
+    },
+    {
+        "redni_broj": "19",
+        "naziv": "OŠ “Al-Walidein-Gazzaz”",
+        "ulica_broj": "Hasiba Brankovića 2",
+        "telefon": "235-507",
+        "fax": "235-488",
+        "web_stranica": "",
+        "email": ""
+    },
+    {
+        "redni_broj": "20",
+        "naziv": "OŠ “Aleksa Šantić”",
+        "ulica_broj": "Branislava Nušića 95",
+        "telefon": "456-533, 461-300",
+        "fax": "461-300",
+        "web_stranica": "https://www.osas.edu.ba",
+        "email": "aleksa_santic@bih.net.ba"
+    },
+    {
+        "redni_broj": "21",
+        "naziv": "OŠ “Alija Nametak”",
+        "ulica_broj": "Zaima Šarca 15",
+        "telefon": "652-297, 211-075",
+        "fax": "211-075",
+        "web_stranica": "https://www.osansa.edu.ba",
+        "email": "osansa.edu@osansa.edu.ba"
+    },
+    {
+        "redni_broj": "22",
+        "naziv": "OŠ “Avdo Smailović”",
+        "ulica_broj": "Adema Buće 63-b",
+        "telefon": "619-155",
+        "fax": "640-654",
+        "web_stranica": "http://www.osasmailovic.edu.ba/",
+        "email": "avsmail@bih.net.ba "
+    },
+    {
+        "redni_broj": "23",
+        "naziv": "OŠ “Behaudin Selmanović”",
+        "ulica_broj": "Viteška 6, Briješće",
+        "telefon": "780-020",
+        "fax": "033/780-021",
+        "web_stranica": "https://www.osbs.edu.ba",
+        "email": "os.bs@bih.net.ba"
+    },
+    {
+        "redni_broj": "24",
+        "naziv": "OŠ “Ćamil Sijarić”",
+        "ulica_broj": "Braće Mulić 16",
+        "telefon": "544-301, 543-196",
+        "fax": "543-196",
+        "web_stranica": "https://www.oscsijaricsa.edu.ba",
+        "email": "oscamils1@gmail.com"
+    },
+    {
+        "redni_broj": "25",
+        "naziv": "OŠ “Čengić Vila I”",
+        "ulica_broj": "Fetaha Bećirbegovića 2",
+        "telefon": "653-759",
+        "fax": "640-220",
+        "web_stranica": "https://www.oscvila1.edu.ba",
+        "email": "info@oscvila1.edu.ba"
+    },
+    {
+        "redni_broj": "26",
+        "naziv": "OŠ “Džemaludin Čaušević”",
+        "ulica_broj": "Prvomajska 24",
+        "telefon": "611-651",
+        "fax": "713-820",
+        "web_stranica": "https://www.oscausevic.edu.ba",
+        "email": "os.dc@bih.net.ba"
+    },
+    {
+        "redni_broj": "27",
+        "naziv": "OŠ “Edhem Mulabdić”",
+        "ulica_broj": "Konak 1",
+        "telefon": "236-044",
+        "fax": "239-013",
+        "web_stranica": "https://os-emulabdic.mozks-ksb.ba/",
+        "email": "skola-opara@hotmail.com "
+    },
+    {
+        "redni_broj": "28",
+        "naziv": "OŠ “Fatima Gunić”",
+        "ulica_broj": "Nerkeza Smailagića 18",
+        "telefon": "545-181",
+        "fax": "472-752",
+        "web_stranica": "https://osfg.edu.ba/",
+        "email": "osfatimagunic@yahoo.com"
+    },
+    {
+        "redni_broj": "29",
+        "naziv": "OŠ “Grbavica II”",
+        "ulica_broj": "Behdžeta Mutevelića bb",
+        "telefon": "642-642",
+        "fax": "651-121",
+        "web_stranica": "https://www.osgrbavica2.edu.ba",
+        "email": "osgrbavica2@lol.ba"
+    },
+    {
+        "redni_broj": "30",
+        "naziv": "OŠ “Grbavica I”",
+        "ulica_broj": "Grbavička 14",
+        "telefon": "661- 278, 651-337",
+        "fax": "651-337",
+        "web_stranica": "https://osgrbavica1.edu.ba/",
+        "email": "osgrbavica1@hotmail.com "
+    },
+    {
+        "redni_broj": "31",
+        "naziv": "OŠ “Hamdija Kreševljaković”",
+        "ulica_broj": "Carina 2",
+        "telefon": "272-720",
+        "fax": "272-720",
+        "web_stranica": "https://www.oshk.edu.ba",
+        "email": "oshkaimija@yahoo.com"
+    },
+    {
+        "redni_broj": "32",
+        "naziv": "OŠ “Hasan Kaimija”",
+        "ulica_broj": "Cicin han 93",
+        "telefon": "559-906",
+        "fax": "559-905",
+        "web_stranica": "https://www.oshkaimija.edu.ba",
+        "email": "oshkaimija@yahoo.com"
+    },
+    {
+        "redni_broj": "33",
+        "naziv": "OŠ “Hasan Kikić”",
+        "ulica_broj": "Gorica 27",
+        "telefon": "445-137",
+        "fax": "220-162",
+        "web_stranica": "https://www.oshkikic.edu.ba",
+        "email": "oshasankikic@gmail.com"
+    },
+    {
+        "redni_broj": "34",
+        "naziv": "OŠ “Hašim Spahić” Ilijaš",
+        "ulica_broj": "Krajiška bb",
+        "telefon": "400-996",
+        "fax": "400-458",
+        "web_stranica": "http://oshs.edu.ba/",
+        "email": "oskolahs@yahoo.com "
+    },
+    {
+        "redni_broj": "35",
+        "naziv": "OŠ “Hilmi ef. Šarić” Hadžići-Tarčin",
+        "ulica_broj": "Bratstva i jedinstva 38",
+        "telefon": "428-395",
+        "fax": "419-150",
+        "web_stranica": "https://www.oshilmi.edu.ba",
+        "email": "oshilmi@bih.net.ba"
+    },
+    {
+        "redni_broj": "36",
+        "naziv": "OŠ “Hrasno”",
+        "ulica_broj": "Porodice Ribar 2",
+        "telefon": "647-451, 651-120",
+        "fax": "651-120",
+        "web_stranica": "https://www.oshrasno.edu.ba",
+        "email": "oshrasno@yahoo.com"
+    },
+    {
+        "redni_broj": "37",
+        "naziv": "OŠ “Isak Samokovlija”",
+        "ulica_broj": "Fra Anđela Zvizdovića 1",
+        "telefon": "212-499",
+        "fax": "210-144",
+        "web_stranica": "https://www.osis.edu.ba",
+        "email": "info@osis.edu.ba"
+    },
+    {
+        "redni_broj": "38",
+        "naziv": "OŠ “Izet Šabić” Hotonj – Vogošća",
+        "ulica_broj": "Donji Hotonj bb",
+        "telefon": "481-090",
+        "fax": "481-089",
+        "web_stranica": "https://www.osizetsabic.edu.ba",
+        "email": "osizetsabic@bih.net.ba"
+    },
+    {
+        "redni_broj": "39",
+        "naziv": "OŠ “Kovačići”",
+        "ulica_broj": "Zagrebačka 22a",
+        "telefon": "615-878",
+        "fax": "615-879",
+        "web_stranica": "http://www.oskovacici.edu.ba/",
+        "email": "kovacici@bih.net.ba"
+    },
+    {
+        "redni_broj": "40",
+        "naziv": "OŠ “Malta”",
+        "ulica_broj": "Marka Marulića 27",
+        "telefon": "613-502",
+        "fax": "613-501",
+        "web_stranica": "https://www.osmalta.edu.ba",
+        "email": "skola.malta@gmail.com "
+    },
+    {
+        "redni_broj": "41",
+        "naziv": "OŠ “Mehmed beg Kapetanović Ljubušak”",
+        "ulica_broj": "Braće Begić 19",
+        "telefon": "220-491",
+        "fax": "220-491",
+        "web_stranica": "https://osmbkljsdg.co.ba/",
+        "email": ""
+    },
+    {
+        "redni_broj": "42",
+        "naziv": "OŠ “Mehmedalija Mak Dizdar”",
+        "ulica_broj": "Žrtava fašizma 14",
+        "telefon": "644-897",
+        "fax": "650-807",
+        "web_stranica": "https://www.osmmdsa.edu.ba",
+        "email": ""
+    },
+    {
+        "redni_broj": "43",
+        "naziv": "OŠ “Meša Selimović”",
+        "ulica_broj": "Geteova 16",
+        "telefon": "543-113",
+        "fax": "542-899",
+        "web_stranica": "https://www.osmssa.edu.ba",
+        "email": "mesaselimovic1@gmail.com"
+    },
+    {
+        "redni_broj": "44",
+        "naziv": "OŠ “Mirsad Prnjavorac” - Vogošća",
+        "ulica_broj": "Jošanička 51",
+        "telefon": "430-910",
+        "fax": "430-911",
+        "web_stranica": "https://www.osmp.edu.ba",
+        "email": "prima97@bih.net.ba"
+    },
+    {
+        "redni_broj": "45",
+        "naziv": "OŠ “Mula Mustafa Bašeskija”",
+        "ulica_broj": "Logavina 52",
+        "telefon": "238-151",
+        "fax": "447-246",
+        "web_stranica": "https://www.osmmbsa.edu.ba",
+        "email": "skola@osmmbsa.edu.ba"
+    },
+    {
+        "redni_broj": "46",
+        "naziv": "OŠ “Musa Ćazim Ćatić”",
+        "ulica_broj": "Čekaluša 53",
+        "telefon": "216-567",
+        "fax": "208-567",
+        "web_stranica": "http://osmccsa.edu.ba/v2/",
+        "email": "musacazimc@gmail.com"
+    },
+    {
+        "redni_broj": "47",
+        "naziv": "OŠ “Mustafa Busuladžić”",
+        "ulica_broj": "Ahatovićka 41",
+        "telefon": "629-574",
+        "fax": "629-574",
+        "web_stranica": "https://www.osdobrosevici.edu.ba",
+        "email": "osmustafabusuladzic@gmail.com "
+    },
+    {
+        "redni_broj": "48",
+        "naziv": "OŠ “Nafija Sarajlić”",
+        "ulica_broj": "Patriotske lige 57",
+        "telefon": "209-232",
+        "fax": "213-823",
+        "web_stranica": "https://www.osnsarajlic.edu.ba/",
+        "email": "info@osnsarajlic.edu.ba"
+    },
+    {
+        "redni_broj": "49",
+        "naziv": "OŠ “Osman Nakaš”",
+        "ulica_broj": "Gradačačka 39",
+        "telefon": "641-287",
+        "fax": "642-066",
+        "web_stranica": "https://www.osonakas.edu.ba",
+        "email": "ososmannakas@gmail.com"
+    },
+    {
+        "redni_broj": "50",
+        "naziv": "OŠ “Osman Nuri Hadžić”",
+        "ulica_broj": "Lava Tolstoja 6",
+        "telefon": "460-362",
+        "fax": "460-363",
+        "web_stranica": "https://www.osonh.edu.ba",
+        "email": "info@osonh.edu.ba "
+    },
+    {
+        "redni_broj": "51",
+        "naziv": "OŠ “Podlugovi“ Ilijaš",
+        "ulica_broj": "Žrtava genocida u Srebrenici 212",
+        "telefon": "401-017, 428-760",
+        "fax": "401-017",
+        "web_stranica": "https://www.ospodlugovi.edu.ba/",
+        "email": "skola.podlugovi@gmail.com"
+    },
+    {
+        "redni_broj": "52",
+        "naziv": "OŠ “Pofalići”",
+        "ulica_broj": "Ivanjska 1",
+        "telefon": "644-163",
+        "fax": "644-163",
+        "web_stranica": "https://www.ospofalici.edu.ba",
+        "email": "ospofalici@ospofalici.edu.ba"
+    },
+    {
+        "redni_broj": "53",
+        "naziv": "OŠ “Porodice ef. Ramić” – Vogošća",
+        "ulica_broj": "Nova cesta 62",
+        "telefon": "430-993",
+        "fax": "430-993",
+        "web_stranica": "https://www.osramic.edu.ba",
+        "email": ""
+    },
+    {
+        "redni_broj": "54",
+        "naziv": "OŠ “Saburina”",
+        "ulica_broj": "Saburina 4",
+        "telefon": "538-340",
+        "fax": "538-340",
+        "web_stranica": "https://www.ossaburina.edu.ba",
+        "email": "saburina@bih.net.ba"
+    },
+    {
+        "redni_broj": "55",
+        "naziv": "OŠ “Safvet beg Bašagić”",
+        "ulica_broj": "Gimnazijska 1",
+        "telefon": "205-923, 204-707",
+        "fax": "204-707",
+        "web_stranica": "https://www.ossbb.edu.ba",
+        "email": "osnovnaskolasbb@gmail.com"
+    },
+    {
+        "redni_broj": "56",
+        "naziv": "OŠ “Šejh Muhamed efendija Hadžijamaković”",
+        "ulica_broj": "Iza Hrida 11",
+        "telefon": "532-324",
+        "fax": "233-429",
+        "web_stranica": "https://www.ossmeh.edu.ba",
+        "email": ""
+    },
+    {
+        "redni_broj": "57",
+        "naziv": "OŠ “Skender Kulenović”",
+        "ulica_broj": "Bulevar Mimar Sinana bb",
+        "telefon": "451-600",
+        "fax": "464-288",
+        "web_stranica": "http://www.os-sk.edu.ba/",
+        "email": "osskeso@bih.net.ba"
+    },
+    {
+        "redni_broj": "58",
+        "naziv": "OŠ “Sokolje”",
+        "ulica_broj": "Numan paše Ćuprilića do 17",
+        "telefon": "765-540",
+        "fax": "765-542",
+        "web_stranica": "https://www.ossokolje.edu.ba",
+        "email": "ossokolje@ossokolje.edu.ba"
+    },
+    {
+        "redni_broj": "59",
+        "naziv": "OŠ “Srednje” Ilijaš",
+        "ulica_broj": "Srednje bb",
+        "telefon": "489-047",
+        "fax": "489-047",
+        "web_stranica": "https://www.ossrednje.edu.ba",
+        "email": "osskolasrednje@bih.net.ba"
+    },
+    {
+        "redni_broj": "60",
+        "naziv": "OŠ “Umihana Čuvidina”",
+        "ulica_broj": "Smaje Šikala 1",
+        "telefon": "541-009",
+        "fax": "766-410",
+        "web_stranica": "https://www.osuc.edu.ba",
+        "email": "umihanac@bih.net.ba"
+    },
+    {
+        "redni_broj": "61",
+        "naziv": "OŠ “Velešićki heroji”",
+        "ulica_broj": "Velešići 2",
+        "telefon": "214-598",
+        "fax": "214-584",
+        "web_stranica": "https://www.osvh.edu.ba",
+        "email": "osvh@bih.net.ba"
+    },
+    {
+        "redni_broj": "62",
+        "naziv": "OŠ “Vladislav Skarić”",
+        "ulica_broj": "Terezija 48",
+        "telefon": "212-031",
+        "fax": "551-586",
+        "web_stranica": "https://www.osvs.edu.ba",
+        "email": "info_osvs@osvs.edu.ba"
+    },
+    {
+        "redni_broj": "63",
+        "naziv": "OŠ “Vrhbosna”",
+        "ulica_broj": "Baruthana 60",
+        "telefon": "240-100",
+        "fax": "240-100",
+        "web_stranica": "https://www.osvrhbosna.edu.ba",
+        "email": "osvrhbosna@osvrhbosna.edu.ba "
+    },
+    {
+        "redni_broj": "64",
+        "naziv": "OŠ “Zahid Baručija” – Vogošća",
+        "ulica_broj": "Omladinska 14",
+        "telefon": "432-650",
+        "fax": "430-615",
+        "web_stranica": "https://www.oszb.edu.ba",
+        "email": ""
+    },
+    {
+        "redni_broj": "65",
+        "naziv": "OŠ “Zaim Kolar” – Trnovo",
+        "ulica_broj": "Dejčići",
+        "telefon": "438-001 , 438-000",
+        "fax": "438-000",
+        "web_stranica": "https://www.oszk.edu.ba",
+        "email": "oszaimkolar@bih.net.ba"
+    },
+    {
+        "redni_broj": "66",
+        "naziv": "OŠ “Zajko Delić” - Vogošća",
+        "ulica_broj": "Slatinski put 3",
+        "telefon": "426-830",
+        "fax": "485-409",
+        "web_stranica": "https://www.oszd.edu.ba",
+        "email": "oszd@oszd.edu.ba"
+    },
+    {
+        "redni_broj": "67",
+        "naziv": "Osma osnovna škola – Amer Ćenanović Ilidža",
+        "ulica_broj": "Ilirska 2 (Butmir)",
+        "telefon": "771-316, 771-321",
+        "fax": "771-323",
+        "web_stranica": "https://www.osmaosnovnail.edu.ba",
+        "email": "osma2010@bih.net.ba"
+    },
+    {
+        "redni_broj": "68",
+        "naziv": "Osnovna muzička i baletska škola Novo Sarajevo",
+        "ulica_broj": "Kemala Kapetanovića 43",
+        "telefon": "651-523",
+        "fax": "710-861",
+        "web_stranica": "http://www.ombsns.edu.ba/",
+        "email": "info@ombsns.edu.ba"
+    },
+    {
+        "redni_broj": "69",
+        "naziv": "Osnovna muzička škola - Ilidža",
+        "ulica_broj": "Josipa Slavenskog 24",
+        "telefon": "623-400",
+        "fax": "623-170",
+        "web_stranica": "httpss://muzickail.edu.ba/",
+        "email": "info@muzickail.edu.ba"
+    },
+    {
+        "redni_broj": "70",
+        "naziv": "Osnovna muzička škola “Mladen Pozajić”",
+        "ulica_broj": "Josipa Štadlera 1",
+        "telefon": "212-410",
+        "fax": "444-234",
+        "web_stranica": "https://www.omsmp.edu.ba",
+        "email": "omsmp@omsmp.com.ba "
+    },
+    {
+        "redni_broj": "71",
+        "naziv": "OŠ“Silvije Strahimir Kranjčević”",
+        "ulica_broj": "Mehmed paše Sokolovića 2",
+        "telefon": "219-825",
+        "fax": "221-338",
+        "web_stranica": "https://www.ossskranjcevic.edu.ba",
+        "email": "osssk@bih.net.ba"
+    },
+    {
+        "redni_broj": "72",
+        "naziv": "Peta osnovna škola - Ilidža",
+        "ulica_broj": "Umihane Čuvidine 58",
+        "telefon": "515-177",
+        "fax": "515-571",
+        "web_stranica": "https://www.ospeta.edu.ba",
+        "email": "petaosnovnaskola@yahoo.com"
+    },
+    {
+        "redni_broj": "73",
+        "naziv": "Privatna osnovna škola “Bloom”",
+        "ulica_broj": "Nalina 16, Stari Grad Sarajevo",
+        "telefon": "033/207-899",
+        "fax": "033/865-564",
+        "web_stranica": "https://www.bloom.edu.ba",
+        "email": ""
+    },
+    {
+        "redni_broj": "74",
+        "naziv": "Privatna ustanova Školski Centar Maarif Schools of Sarajevo (Škole „Maarif“ Sarajevo) - osnovna škola",
+        "ulica_broj": "Hasiba Brankovića 2A",
+        "telefon": "062/271-004",
+        "fax": "",
+        "web_stranica": "www.maarifschools.edu.ba",
+        "email": ""
+    },
+    {
+        "redni_broj": "75",
+        "naziv": "Prva osnovna škola - Ilidža",
+        "ulica_broj": "Mala aleja 15",
+        "telefon": "639-575",
+        "fax": "639-574",
+        "web_stranica": "https://www.osprvail.edu.ba",
+        "email": "posili@bih.net.ba"
+    },
+    {
+        "redni_broj": "76",
+        "naziv": "Prva privatna OŠ “Isa-beg Ishaković”",
+        "ulica_broj": "Banjalučka bb",
+        "telefon": "957-496",
+        "fax": "957-495",
+        "web_stranica": "httpss://www.isabeg.edu.ba/bs",
+        "email": "info@isabeg.edu.ba"
+    },
+    {
+        "redni_broj": "77",
+        "naziv": "Quality Schools International - International School of Sarajevo (QSIS Sarajevo)",
+        "ulica_broj": "Omladinska broj 16",
+        "telefon": "424-450",
+        "fax": "424-471",
+        "web_stranica": "httpss://sarajevo.qsi.org/",
+        "email": "sarajevo@qsi.org"
+    },
+    {
+        "redni_broj": "78",
+        "naziv": "Sedma osnovna škola – Ilidža",
+        "ulica_broj": "Blažuj 118",
+        "telefon": "761-630",
+        "fax": "761-630",
+        "web_stranica": "https://www.sedma-osnovna.edu.ba",
+        "email": "sedma.os@bih.net.ba"
+    },
+    {
+        "redni_broj": "79",
+        "naziv": "Šesta osnovna škola - Ilidža",
+        "ulica_broj": "Barska bb Stup",
+        "telefon": "623-405",
+        "fax": "626-783",
+        "web_stranica": "https://www.ossesta.edu.ba",
+        "email": "osnovna_skola_sesta@yahoo.co.uk"
+    },
+    {
+        "redni_broj": "80",
+        "naziv": "Treća osnovna škola - Ilidža",
+        "ulica_broj": "Nasihe Kapidžić Hadžić 1",
+        "telefon": "638-479",
+        "fax": "638-473",
+        "web_stranica": "https://www.trecaosnovna.edu.ba",
+        "email": "info@trecaosnovna.edu.ba"
+    },
+    {
+        "redni_broj": "81",
+        "naziv": "Zavod “Mjedenica”",
+        "ulica_broj": "Mjedenica 34",
+        "telefon": "207-963",
+        "fax": "207-962",
+        "web_stranica": "https://zavodmjedenica.ba/",
+        "email": "mjedenica@hotmail.com"
+    }
+]
