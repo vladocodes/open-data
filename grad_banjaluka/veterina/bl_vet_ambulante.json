@@ -1,0 +1,90 @@
+﻿[
+    {
+        "redni_broj": "1",
+        "naziv": "Veterinarska stanica \"Vet Centar\"",
+        "ulica_broj": "",
+        "fiksni_telefon": "+387 51 288 850",
+        "mobilni_telefon": "+387 65 981 786",
+        "email": "contact@vetcentar.com",
+        "web_stranica": "https://vetcentar.com/",
+        "latitude": "44.7768251",
+        "longitude": "17.1547938"
+    },
+    {
+        "redni_broj": "2",
+        "naziv": "Veterinarska ambulanta \"Mim coop\"",
+        "ulica_broj": "Jovana Dučića 44a",
+        "fiksni_telefon": "+387 51 308 400",
+        "mobilni_telefon": "+387 66 321 132 ",
+        "email": "info@veterinarskaambulanta.ba",
+        "web_stranica": "https://veterinarskaambulanta.ba/",
+        "latitude": "44.7768251",
+        "longitude": "17.1547938"
+    },
+    {
+        "redni_broj": "3",
+        "naziv": "Veterinarska ordinacija \"LokoVet\"",
+        "ulica_broj": "Slobodana Kusturića 10",
+        "fiksni_telefon": "",
+        "mobilni_telefon": "+387 65 311 303",
+        "email": "",
+        "web_stranica": "",
+        "latitude": "44.7632096",
+        "longitude": "17.2014479"
+    },
+    {
+        "redni_broj": "4",
+        "naziv": "Veterinarska ambulanta \"BL VET\"",
+        "ulica_broj": "Bul. Vojvode Stepe Stepanovića 173",
+        "fiksni_telefon": "+387 51 235 590",
+        "mobilni_telefon": "+387 66 484 373",
+        "email": "ambulanta.blvet@gmail.com",
+        "web_stranica": "https://www.blvet.rs.ba/",
+        "latitude": "44.7768251",
+        "longitude": "17.1547938"
+    },
+    {
+        "redni_broj": "5",
+        "naziv": "Veterinarska ambulanta \"VEThealth\"",
+        "ulica_broj": "Branka Popovića 186",
+        "fiksni_telefon": "+387 51 370 530",
+        "mobilni_telefon": "+387 65 379 681",
+        "email": "veterinar@vethealth.ba",
+        "web_stranica": "https://vethealth.ba/",
+        "latitude": "44.8173906",
+        "longitude": "17.1438888"
+    },
+    {
+        "redni_broj": "6",
+        "naziv": "Veterinarska stanica \"AD\"",
+        "ulica_broj": "Knjaza Miloša 23",
+        "fiksni_telefon": "+387 51 303 113",
+        "mobilni_telefon": "",
+        "email": "",
+        "web_stranica": "",
+        "latitude": "44.7768251",
+        "longitude": "17.1547938"
+    },
+    {
+        "redni_broj": "7",
+        "naziv": "Veterinarska ordinacija \"Anivet\"",
+        "ulica_broj": "Braće Kukrika 1",
+        "fiksni_telefon": "+387 51 429 847",
+        "mobilni_telefon": "",
+        "email": "",
+        "web_stranica": "",
+        "latitude": "44.7659049",
+        "longitude": "17.2131969"
+    },
+    {
+        "redni_broj": "8",
+        "naziv": "Veterinarska ambulanta \"VETMEDIK\"",
+        "ulica_broj": "Meše Selimovića 12 ",
+        "fiksni_telefon": "+387 51 921 721",
+        "mobilni_telefon": "",
+        "email": "etmedikbl@gmail.com",
+        "web_stranica": "https://mail.atvbl.com/vetmedik/",
+        "latitude": "44.7675148",
+        "longitude": "17.1833746"
+    }
+]
