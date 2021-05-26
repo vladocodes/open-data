@@ -1,0 +1,34 @@
+﻿redni_broj,naziv ,adresa ,mjesna_zajednica,latitude,longitude,web_stranica,radno_vrijeme,dodatne_info
+1,Ambulanta porodične medicine Poliklinika,Zdrave Korde 4,Centar,44.7732884,17.1836672,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/poliklinika/,7-20 h,
+2,Ambulanta porodične medicine Paprikovac,Ranka Šipke 80c,Paprikovac,44.7803854,17.1841272,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/paprikovac/,7-20 h,
+3,Ambulanta porodične medicine  Borik,Save Kovačevića,Borik,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/borik/,7-20 h,
+4,Ambulanta porodične medicine Obilićevo,Carice Milice 19,Obilićevo,44.7644302,17.1900667,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/obilicevo/,7-20 h,laboratorija za hematološke analize i uzimanje uzoraka za biohemijske analize
+5,Ambulanta porodične medicine Kočićev Vijenac ,Duška Koščice bb,Bulevar,44.7648052,17.1785761,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/kocicev-vijenac/,7-20 h,laboratorija za hematološke analize
+6,Ambulanta porodične medicine Lazarevo,Ilije Garašanina 2,Lazarevo I,44.7973265,17.2029087,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/lazarevo/,7-20 h,laboratorija za hematološke analize i uzimanje uzoraka za biohemijske analize
+7,Ambulanta porodične medicine Nova Varoš,Dragiše Vasića 11,Nova Varoš,44.7799317,17.185975,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/nova-varos/,7-20 h,"laboratorija za hematološke analize i uzimanje uzoraka za biohemijske analize, pedijatrijske ambulante, centar za vakcinaciju"
+8,Ambulanta porodične medicine Rosulje,Trive Amelice 26,Rosulje,44.7799317,17.185975,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/rosulje/,7-20 h,
+9,Ambulanta porodične medicine Srpske Toplice,Od Zmijana Rajka,Srpske toplice,44.7710998,17.1677497,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/srpske-toplice/,7-20 h,laboratorija za hematološke analize i uzimanje uzoraka za biohemijske analize
+10,Ambulanta porodične medicine Šargovac,Šargovacka 98,Šargovac,44.8233404,17.1846449,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/sargovac/,7-20 h,
+11,Ambulanta porodične medicine Petrićevac,Branislava Nušića bb,Petrićevac,44.7878689,17.1905395,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/petricevac/,7-20 h,
+12,Ambulanta porodične medicine Vrbanja,Rade Radića 155,Vrbanja,44.7636466,17.2451974,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/vrbanja/,7-20 h,laboratorija za uzimanje uzoraka za hematološke i biohemijske analize
+13,Ambulanta porodične medicine Lauš,Karađorđeva 159,Lauš,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/laus/,7-20 h,laboratorija za uzimanje uzoraka za hematološke i biohemijske analize
+14,Ambulanta porodične medicine Starčevica,Rajka Bosnića 21,Starčevica 1,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/starcevica-1/,7-20 h,
+15,Ambulanta porodične medicine Starčevica,Jug Bogdana 66,Starčevica 2,44.7630663,17.2007836,http://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/starcevica-2/,7-20 h,
+16,Ambulanta porodične medicine Kampus,Bulevar vojvode Petra Bojovića,,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/kampus/,7-20 h,
+17,Ambulanta porodične medicine Motike,Motike bb,Motike,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/motike/,7-20 h,
+18,Ambulanta porodične medicine  Česma,Petra Velikog bb,Česma,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/cesma/,7-20 h,
+19,Ambulanta porodične medicine Zalužani,Nikole Kostića bb,Zalužani,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/zaluzani/,7-20 h,
+20,Ambulanta porodične medicine Bočac,Bočac bb,Bočac,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/bocac/,7-15 h,
+21,Ambulanta porodične medicine Krupa na Vrbasu,Jove G. Popovića bb,Krupa na Vrbasu,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/krupa-na-vrbasu/,7-15 h,
+22,Ambulanta porodične medicine Agino Selo,Agino Selo bb,Agino Selo,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/agino-selo/,7-15 h,
+23,Ambulanta porodične medicine Bronzani Majdan,Bronzani Majdan bb,Bronzani Majdan,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/bronzani-majdan/,7-15 h,
+24,Ambulanta porodične medicine Borkovići,Borkovići bb,Borkovići,44.8212782,16.9937413,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/borkovici/,7-15 h,
+25,Ambulanta porodične medicine Verići,Verići bb,Verići,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/verici/,7-15 h,
+26,Ambulanta porodične medicine Goleši,Goleši bb,Goleši,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/golesi/,7-15 h,
+27,Ambulanta porodične medicine Dragočaj,Dragočaj bb,Dragočaj,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/dragocaj/,7-15 h,
+28,Ambulanta porodične medicine Kola,Kola bb,Kola,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/kola/,7-15 h,
+29,Ambulanta porodične medicine Mišin Han,Mišin Han bb,Mišin Han,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/misin-han/,7-15 h,
+30,Ambulanta porodične medicine Piskavica,Piskavica bb,Piskavica,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/piskavica/,7-15 h,
+31,Ambulanta porodične medicine Potkozarje,Potkozarje bb,Potkozarje,44.915052,17.0614786,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/potkozarje/,7-15 h,laboratorija za hematološke analize
+32,Ambulanta porodične medicine Stričići,Stričići bb,Stričići,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/stricici/,7-15 h,
+33,Ambulanta porodične medicine Karanovac,Karanovac bb,Karanovac,,,https://domzdravljabanjaluka.com/dz/sluzba-porodicne-medicine/karanovac/,7-15 h,
