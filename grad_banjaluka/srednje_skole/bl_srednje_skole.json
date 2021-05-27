@@ -1,0 +1,189 @@
+﻿[
+    {
+        "redni_broj": "1",
+        "naziv": "JU Gimnazija",
+        "ulica_broj": "Zmaj Jovina 13",
+        "web_stranica": "http://www.gimnazijabanjaluka.org/",
+        "email": "ss01@skolers.org",
+        "telefon": "+387 51 213 259",
+        "faks": "+387 51 223 571",
+        "latitude": "44.7695763",
+        "longitude": "17.1813523"
+    },
+    {
+        "redni_broj": "2",
+        "naziv": "JU Građevinska škola",
+        "ulica_broj": "Mladena Stojanovića 7",
+        "web_stranica": "http://gradjevinskaskola.com/",
+        "email": "ss02@skolers.org",
+        "telefon": "+387 51 313 717",
+        "faks": "+387 51 313 717",
+        "latitude": "44.7801482",
+        "longitude": "17.1964037"
+    },
+    {
+        "redni_broj": "3",
+        "naziv": "JU Ekonomska škola",
+        "ulica_broj": "Kralja Alfonsa XIII broj 34",
+        "web_stranica": "https://www.ekonomskaskolabl.org/",
+        "email": "ss03@skolers.org",
+        "telefon": "+387 51 231 250",
+        "faks": "+387 51 231 250",
+        "latitude": "44.7694056",
+        "longitude": "17.1938985"
+    },
+    {
+        "redni_broj": "4",
+        "naziv": "JU Elektrotehnička škola \"Nikola Tesla\"",
+        "ulica_broj": "Jevrejska 48",
+        "web_stranica": "https://www.ets.rs.ba/",
+        "email": "ss04@skolers.org",
+        "telefon": "+387 51 313 083",
+        "faks": "+387 51 301 259",
+        "latitude": "44.768523",
+        "longitude": "17.1929849"
+    },
+    {
+        "redni_broj": "5",
+        "naziv": "JU Medicinska škola",
+        "ulica_broj": "Cetinjska 1",
+        "web_stranica": "https://www.medicinska-skola-bl.net/index1.php",
+        "email": "ss05@skolers.org",
+        "telefon": "+387 51 216 482",
+        "faks": "+387 51 216 482",
+        "latitude": "44.7604355",
+        "longitude": "17.1748673"
+    },
+    {
+        "redni_broj": "6",
+        "naziv": "JU Muzička škola  \"Vlado Milošević\"",
+        "ulica_broj": "Jovana Dučića 23",
+        "web_stranica": "https://muzicka-skola.org/",
+        "email": "ssrs12bl@inecco.net",
+        "telefon": "+387 51 214 739",
+        "faks": "+387 51 214 739",
+        "latitude": "44.7739353",
+        "longitude": "17.1843018"
+    },
+    {
+        "redni_broj": "7",
+        "naziv": "JU Poljoprivredna škola",
+        "ulica_broj": "Knjaza Miloša 9",
+        "web_stranica": "https://www.poljskolabl.rs.ba/",
+        "email": "ss06@skolers.org",
+        "telefon": "+387 51 303 576",
+        "faks": "+387 51 329 521",
+        "latitude": "44.7919019",
+        "longitude": "17.2028683"
+    },
+    {
+        "redni_broj": "8",
+        "naziv": "JU Tehnička škola",
+        "ulica_broj": "Đure Daničića 2",
+        "web_stranica": "https://www.tehnickaskolabl.com/SrednjaSkola2/",
+        "email": "ss07@skolers.org",
+        "telefon": "+387 51 348 213",
+        "faks": "+387 51 348 213",
+        "latitude": "44.7688569",
+        "longitude": "17.1907748"
+    },
+    {
+        "redni_broj": "9",
+        "naziv": "JU Tehnološka škola",
+        "ulica_broj": "Pilanska bb",
+        "web_stranica": "https://tehnoloska.org/",
+        "email": "ss08@skolers.org",
+        "telefon": "+387 51 302 381",
+        "faks": "+387 51 302 381",
+        "latitude": "44.7848335",
+        "longitude": "17.2084871"
+    },
+    {
+        "redni_broj": "10",
+        "naziv": "JU Ugostiteljsko-trgovinsko-turistička škola",
+        "ulica_broj": "Stepe Stepanovića 44",
+        "web_stranica": "https://ugostiteljska.com/",
+        "email": "ss09@skolers.org",
+        "telefon": "+387 51 466 204",
+        "faks": "+387 51 466 204",
+        "latitude": "44.763186",
+        "longitude": "17.1954649"
+    },
+    {
+        "redni_broj": "11",
+        "naziv": "JU Škola učenika u privredi",
+        "ulica_broj": "Nikole Pašića bb",
+        "web_stranica": "https://www.srsksupbl.org/",
+        "email": "ss10@skolers.org",
+        "telefon": "+387 51 213 411",
+        "faks": "+387 51 213 411",
+        "latitude": "44.7690228",
+        "longitude": "17.1937215"
+    },
+    {
+        "redni_broj": "12",
+        "naziv": "JU Centar za obrazovanje i vaspitanje i rehabilitaciju sluha i govora",
+        "ulica_broj": "Jovana Raškovića 28",
+        "web_stranica": "https://centar-ovrsg.com/sadrzaj/jedna/9",
+        "email": "spec02@skolers.org",
+        "telefon": "+387 51 214 491",
+        "faks": "+387 51 214 491",
+        "latitude": "44.7751085",
+        "longitude": "17.1775132"
+    },
+    {
+        "redni_broj": "13",
+        "naziv": "JU Centar \"Zaštiti me\"",
+        "ulica_broj": "Poljokanov park bb",
+        "web_stranica": "https://www.zastitime.info/",
+        "email": "zastiti@inecco.net",
+        "telefon": "+387 51 201 708",
+        "faks": "+387 51 201 708",
+        "latitude": "44.757149",
+        "longitude": "17.1723563"
+    },
+    {
+        "redni_broj": "14",
+        "naziv": "PU Srednjoškolski centar \"Ljubiša Mladenović\"",
+        "ulica_broj": "Despota Stefana Lazarevića bb",
+        "web_stranica": "http://spskola.com/kontakt/",
+        "email": "info@spskola.com",
+        "telefon": "+387 51 379 410",
+        "faks": "+387 51 379 411",
+        "latitude": "44.8093781",
+        "longitude": "17.1992265"
+    },
+    {
+        "redni_broj": "15",
+        "naziv": "PU Srednjoškolski centar \"Gemit-Apeiron\"",
+        "ulica_broj": "Pere Krece 13",
+        "web_stranica": "http://www.apeiron-gemit.org/",
+        "email": "srednjaskola@apeiron-ssc.com",
+        "telefon": "+387 51 430 982",
+        "faks": "+387 51 430 982",
+        "latitude": "44.770892",
+        "longitude": "17.181759"
+    },
+    {
+        "redni_broj": "16",
+        "naziv": "PU Srednjoškolski centar \"Gaudeamus\"",
+        "ulica_broj": "Jovana Dučića 23",
+        "web_stranica": "https://scgaudeamus.com/o-skoli/",
+        "email": "info@scgaudeamus.com",
+        "telefon": "+387 51 248 339",
+        "faks": "+387 51 248 329",
+        "latitude": "44.7763366",
+        "longitude": "17.1854658"
+    },
+    {
+        "redni_broj": "17",
+        "naziv": "PU Katolički školski centar \"Ivan Merz\"",
+        "ulica_broj": "Srpska 28",
+        "web_stranica": "http://www.kscbl.com/",
+        "email": "kontakt@kscbl.com",
+        "telefon": "+387 51 211 670",
+        "faks": "+387 51 212 750",
+        "latitude": "44.7706349",
+        "longitude": "17.1922393"
+    }
+]
