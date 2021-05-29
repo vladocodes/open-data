@@ -1,0 +1,394 @@
+﻿[
+    {
+        "redni_broj": "1",
+        "naziv": "Centar za slijepu i slabovidnu djecu i omladinu",
+        "adresa": "Lukavička 6",
+        "fax": "473-020",
+        "telefon": "473-019",
+        "web_stranica": "https://www.czsd.edu.ba"
+    },
+    {
+        "redni_broj": "2",
+        "naziv": "Centar za slušnu i govornu rehabilitaciju",
+        "adresa": "Asima Ferhatovića 2",
+        "fax": "440-969",
+        "telefon": "440-969",
+        "web_stranica": "https://www.cersig.edu.ba"
+    },
+    {
+        "redni_broj": "3",
+        "naziv": "Četvrta gimnazija",
+        "adresa": "Mala aleja 69",
+        "fax": "636-704",
+        "telefon": "636-704;",
+        "web_stranica": "https://www.cetvrta-gimnazija.edu.ba"
+    },
+    {
+        "redni_broj": "4",
+        "naziv": "Druga gimnazija",
+        "adresa": "Sutjeska 1",
+        "fax": "667-438",
+        "telefon": "667-438",
+        "web_stranica": "https://www.2gimnazija.edu.ba"
+    },
+    {
+        "redni_broj": "5",
+        "naziv": "Elektrotehnička škola za energetiku",
+        "adresa": "Zmaja od Bosne 37",
+        "fax": "655-285",
+        "telefon": "235-014",
+        "web_stranica": "https://www.etssa.edu.ba"
+    },
+    {
+        "redni_broj": "6",
+        "naziv": "Gazi Husrev-begova medresa",
+        "adresa": "Sarači 49",
+        "fax": "534-384",
+        "telefon": "534-888",
+        "web_stranica": "https://www.medresa.ba"
+    },
+    {
+        "redni_broj": "7",
+        "naziv": "Gimnazija Dobrinja",
+        "adresa": "Senada Poturka Senčija bb",
+        "fax": "464-284",
+        "telefon": "464-948",
+        "web_stranica": "https://www.gdobrinja.edu.ba"
+    },
+    {
+        "redni_broj": "8",
+        "naziv": "Gimnazija Obala",
+        "adresa": "Obala Kulina bana 3",
+        "fax": "214-960",
+        "telefon": "214-960",
+        "web_stranica": "https://www.obala.edu.ba"
+    },
+    {
+        "redni_broj": "9",
+        "naziv": "Gimnazija Univerziteta Sarajevo School of Science and Technology",
+        "adresa": "Bistrik br. 7, 71000 Sarajevo",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": "https://www.gssst.edu.ba"
+    },
+    {
+        "redni_broj": "10",
+        "naziv": "Internacionalna gimnazija SEDEF",
+        "adresa": "Banjalučka 14, 71000 Sarajevo",
+        "fax": "",
+        "telefon": "033/957-440",
+        "web_stranica": "https://www.igs.edu.ba"
+    },
+    {
+        "redni_broj": "11",
+        "naziv": "JU Srednja građevinsko-geodetska škola",
+        "adresa": "Franca Lehara br. 5, Sarajevo",
+        "fax": "033/214-543",
+        "telefon": "033/214-543, 033/213-290",
+        "web_stranica": "https://www.ggs.edu.ba/"
+    },
+    {
+        "redni_broj": "12",
+        "naziv": "JU Srednja škola metalskih zanimanja",
+        "adresa": "Zmaja od Bosne br. 8, Sarajevo",
+        "fax": "033/275-630",
+        "telefon": "033/275-600",
+        "web_stranica": "http://www.jussmz.com.ba/"
+    },
+    {
+        "redni_broj": "13",
+        "naziv": "JU Srednja škola poljoprivrede, prehrane, veterine i uslužnih djelatnosti",
+        "adresa": "Hamdije Kreševljakovića br. 55",
+        "fax": "033/443-371",
+        "telefon": "033/262-900",
+        "web_stranica": "https://mspvps.edu.ba/"
+    },
+    {
+        "redni_broj": "14",
+        "naziv": "JU Srednja škola za okoliš i drvni dizajn",
+        "adresa": "Vilsonovo šetalište 11, Sarajevo",
+        "fax": "",
+        "telefon": "033/641-036",
+        "web_stranica": "http://www.ssodd.edu.ba/"
+    },
+    {
+        "redni_broj": "15",
+        "naziv": "JU Srednja škola za saobraćaj i komunikacije",
+        "adresa": "Velešići br. 2, 71000 Sarajevo",
+        "fax": "033/561-941",
+        "telefon": "033/561-942",
+        "web_stranica": "https://ssskskola.edu.ba/"
+    },
+    {
+        "redni_broj": "16",
+        "naziv": "JU Srednjoškolski centar \"Nedžad Ibrišimović\" Ilijaš",
+        "adresa": "Kakanjska br. 16, Ilijaš, 71380",
+        "fax": "033/400-815",
+        "telefon": "033/400-813, 033/400-815",
+        "web_stranica": "http://www.scilijas.com.ba/"
+    },
+    {
+        "redni_broj": "17",
+        "naziv": "JU Srednjoškolski centar Hadžići",
+        "adresa": "6. mart br. 19, Hadžići",
+        "fax": "033/420-337",
+        "telefon": "033/580-710",
+        "web_stranica": "https://sscha.edu.ba/"
+    },
+    {
+        "redni_broj": "18",
+        "naziv": "Katolički školski centar - srednja medicinska škola",
+        "adresa": "Šenoina 3",
+        "fax": "552-021",
+        "telefon": "218-295",
+        "web_stranica": "https://www.ksc-sarajevo.com"
+    },
+    {
+        "redni_broj": "19",
+        "naziv": "Katolički školski centar – Opća realna gimnazija",
+        "adresa": "Mehmed Paše Sokolovića 11",
+        "fax": "665-521",
+        "telefon": "653-506",
+        "web_stranica": "https://www.ksc-sarajevo.com"
+    },
+    {
+        "redni_broj": "20",
+        "naziv": "Međunarodna gimnazija \"Richmond Park International Secondary School\"",
+        "adresa": "Francuske revolucije bb",
+        "fax": "782-121",
+        "telefon": "944-130",
+        "web_stranica": "https://www.internationalschool.ba"
+    },
+    {
+        "redni_broj": "21",
+        "naziv": "Perzijsko-Bosanski koledž sa internatom ",
+        "adresa": "Lješevo b.b.",
+        "fax": "402-487",
+        "telefon": "402-204",
+        "web_stranica": "https://www.pbk.edu.ba"
+    },
+    {
+        "redni_broj": "22",
+        "naziv": "Peta gimnazija",
+        "adresa": "Senada Poturka Senčija bb",
+        "fax": "235-521",
+        "telefon": "235-521",
+        "web_stranica": "https://www.peta-gimnazija.edu.ba"
+    },
+    {
+        "redni_broj": "23",
+        "naziv": "Privatna internacionalna gimnazija \"Bloom\"",
+        "adresa": "Nalina 16, Stari Grad Sarajevo",
+        "fax": "033/865-564",
+        "telefon": "033/207-899",
+        "web_stranica": "https://www.bloom.edu.ba"
+    },
+    {
+        "redni_broj": "24",
+        "naziv": "Privatna ustanova Školski Centar Maarif Schools of Sarajevo (Škole „Maarif“ Sarajevo) - srednja škola",
+        "adresa": "Hasiba Brankovića 2A, Sarajevo",
+        "fax": "",
+        "telefon": "062/271-004",
+        "web_stranica": "www.maarifschools.edu.ba"
+    },
+    {
+        "redni_broj": "25",
+        "naziv": "Prva bošnjačka gimnazija",
+        "adresa": "Petrakijina 22",
+        "fax": "668-212",
+        "telefon": "461-780",
+        "web_stranica": "https://www.bosnjackagim.edu.ba/"
+    },
+    {
+        "redni_broj": "26",
+        "naziv": "Prva gimnazija",
+        "adresa": "Gimnazijska 3",
+        "fax": "216-685",
+        "telefon": "203-567",
+        "web_stranica": "https://www.prva-gimnazija.edu.ba"
+    },
+    {
+        "redni_broj": "27",
+        "naziv": "Škola za srednje stručno obrazovanje i radno osposobljavanje",
+        "adresa": "Azize Šaćirbegović 80",
+        "fax": "655-950",
+        "telefon": "655-950",
+        "web_stranica": "https://www.strucnoobraz.edu.ba"
+    },
+    {
+        "redni_broj": "28",
+        "naziv": "Srednja ekonomska škola",
+        "adresa": "Zmaja od Bosne 39",
+        "fax": "250-048",
+        "telefon": "250-041",
+        "web_stranica": "https://www.ses.edu.ba"
+    },
+    {
+        "redni_broj": "29",
+        "naziv": "Srednja elektrotehnička škola",
+        "adresa": "Safeta Zajke 2",
+        "fax": "650-998",
+        "telefon": "650-989",
+        "web_stranica": "https://www.ets-sa.edu.ba"
+    },
+    {
+        "redni_broj": "30",
+        "naziv": "Srednja građevinsko geodetska škola",
+        "adresa": "Franca Lehara 5",
+        "fax": "214-543",
+        "telefon": "214-543",
+        "web_stranica": "https://www.ggs.edu.ba"
+    },
+    {
+        "redni_broj": "31",
+        "naziv": "Srednja mašinska tehnička škola",
+        "adresa": "Zmaja od Bosne 8 Direktor",
+        "fax": "275-630",
+        "telefon": "275-620",
+        "web_stranica": "https://www.smts.edu.ba"
+    },
+    {
+        "redni_broj": "32",
+        "naziv": "Srednja medicinska škola",
+        "adresa": "Tahmiščina 2",
+        "fax": "202-005",
+        "telefon": "666-185",
+        "web_stranica": "https://www.sms.edu.ba"
+    },
+    {
+        "redni_broj": "33",
+        "naziv": "Srednja medicinska škola - Jezero",
+        "adresa": "Patriotske lige 67a",
+        "fax": "652-416",
+        "telefon": "443-987",
+        "web_stranica": "https://www.smsjezero.edu.ba"
+    },
+    {
+        "redni_broj": "34",
+        "naziv": "Srednja muzička škola",
+        "adresa": "Josipa Štadlera 1",
+        "fax": "207-951",
+        "telefon": "441-958",
+        "web_stranica": "https://www.muzickasa.edu.ba"
+    },
+    {
+        "redni_broj": "35",
+        "naziv": "Srednja poslovno-komercijalna i trgovačka škola",
+        "adresa": "Armaganuša 29",
+        "fax": "+387 33 205-942",
+        "telefon": "+387 33 205-942",
+        "web_stranica": "https://www.sts.edu.ba"
+    },
+    {
+        "redni_broj": "36",
+        "naziv": "Srednja škola metalskih zanimanja",
+        "adresa": "Zmaja od Bosne 8",
+        "fax": "207-369",
+        "telefon": "207-369",
+        "web_stranica": "https://www.ssmz.edu.ba"
+    },
+    {
+        "redni_broj": "37",
+        "naziv": "Srednja škola poljoprivrede, prehrane, veterine i uslužnih djelatnosti",
+        "adresa": "Hamdije Kreševljakovića 55",
+        "fax": "443-371",
+        "telefon": "262-900",
+        "web_stranica": "https://www.mspvps.edu.ba"
+    },
+    {
+        "redni_broj": "38",
+        "naziv": "Srednja škola primijenjenih umjetnosti",
+        "adresa": "Gimnazijska 11",
+        "fax": "262-580",
+        "telefon": "440-520",
+        "web_stranica": "https://www.artschoolsa.edu.ba/"
+    },
+    {
+        "redni_broj": "39",
+        "naziv": "Srednja škola za okoliš i drvni dizajn",
+        "adresa": "Vilsonovo Šetalište 11",
+        "fax": "641-036",
+        "telefon": "641-036",
+        "web_stranica": "https://www.ssodd.edu.ba"
+    },
+    {
+        "redni_broj": "40",
+        "naziv": "Srednja škola za saobraćaj i komunikacije ",
+        "adresa": "Velešići 2",
+        "fax": "561-941",
+        "telefon": "561-940",
+        "web_stranica": "https://www.ssskskola.edu.ba"
+    },
+    {
+        "redni_broj": "41",
+        "naziv": "Srednja škola za tekstil, kožu i dizajn ",
+        "adresa": "Medrese 5",
+        "fax": "531-675",
+        "telefon": "531-675",
+        "web_stranica": "https://www.msts.edu.ba"
+    },
+    {
+        "redni_broj": "42",
+        "naziv": "Srednja tehnička škola grafičkih tehnologija, dizajna i multimedije",
+        "adresa": "Emira Bogunića Čarlija 2",
+        "fax": "764-225",
+        "telefon": "764-225",
+        "web_stranica": "https://www.sgts.edu.ba"
+    },
+    {
+        "redni_broj": "43",
+        "naziv": "Srednja ugostiteljsko-turistička škola",
+        "adresa": "Dugi sokak 9",
+        "fax": "232-828",
+        "telefon": "534-633",
+        "web_stranica": "https://www.msuts-sa.edu.ba"
+    },
+    {
+        "redni_broj": "44",
+        "naziv": "Srednja zubotehnička škola",
+        "adresa": "Čekaluša 84",
+        "fax": "262-180",
+        "telefon": "262-180",
+        "web_stranica": "https://www.szs.edu.ba"
+    },
+    {
+        "redni_broj": "45",
+        "naziv": "Srednjoškolski centar \"Nedžad Ibrišimović\" Ilijaš",
+        "adresa": "Kakanjska 16",
+        "fax": "+387 33 400-815",
+        "telefon": "+387 33 400-815",
+        "web_stranica": "https://www.scilijas.com.ba"
+    },
+    {
+        "redni_broj": "46",
+        "naziv": "Srednjoškolski centar Hadžići",
+        "adresa": "Ul. 6. mart br. 19",
+        "fax": "420-337",
+        "telefon": "420-337",
+        "web_stranica": "https://www.sscha.edu.ba"
+    },
+    {
+        "redni_broj": "47",
+        "naziv": "Srednjoškolski centar Vogošća",
+        "adresa": "Jošanička 119",
+        "fax": "424-180",
+        "telefon": "432-638",
+        "web_stranica": "https://www.mssvogosca.edu.ba"
+    },
+    {
+        "redni_broj": "48",
+        "naziv": "Treća gimnazija",
+        "adresa": "Vilsonovo šetalište 16",
+        "fax": "279-251",
+        "telefon": "279-250;",
+        "web_stranica": "https://www.treca-gimnazija.edu.ba"
+    },
+    {
+        "redni_broj": "49",
+        "naziv": "Željeznički školski centar",
+        "adresa": "Ložionička 8",
+        "fax": "722-941",
+        "telefon": "722-940",
+        "web_stranica": "https://www.zsc.edu.ba"
+    }
+]
