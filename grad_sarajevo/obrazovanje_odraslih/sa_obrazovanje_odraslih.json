@@ -1,0 +1,146 @@
+﻿[
+    {
+        "redni_broj": "1",
+        "naziv": "Centar za edukaciju \"Centrotrans\", Sarajevo",
+        "adresa": "Kurta Schorka br.14, Sarajevo",
+        "fax": "033/770-853",
+        "telefon": "033/770-800",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "2",
+        "naziv": "Centar za edukaciju \"DIZART\"",
+        "adresa": "Halilovići br. 45, Sarajevo",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": "https://dizart.edu.ba/"
+    },
+    {
+        "redni_broj": "3",
+        "naziv": "Centar za edukaciju i istraživanje \"Nahla\"",
+        "adresa": "Džemala Bijedića br. 122, Sarajevo",
+        "fax": "033/641-664",
+        "telefon": "033/710-650",
+        "web_stranica": "https://nahla.ba/"
+    },
+    {
+        "redni_broj": "4",
+        "naziv": "Centar za edukaciju i treninge \" AZUR\"",
+        "adresa": "Vitomira Lukića br. 12a, 71000 Sarajevo",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": "https://www.azur.ba/edukacije/"
+    },
+    {
+        "redni_broj": "5",
+        "naziv": "Centar za edukaciju, razvoj i istraživanje Pedagoškog fakulteta Univerziteta u Sarajevu",
+        "adresa": "Skenderija br. 72, 71000 Sarajevo",
+        "fax": "",
+        "telefon": "033/214-607",
+        "web_stranica": "http://www.pf.unsa.ba/"
+    },
+    {
+        "redni_broj": "6",
+        "naziv": "Centar za obrazovanje i poduzetništvo",
+        "adresa": "Alojza Benca 4, Sarajevo i Igmanska bb, Vogošća",
+        "fax": "+387 33 425 367",
+        "telefon": "+387 33 425 365",
+        "web_stranica": "http://www.cop.edu.ba/"
+    },
+    {
+        "redni_broj": "7",
+        "naziv": "Centar za obrazovanje odraslih Akademija Brezar",
+        "adresa": "Stupska br. 3, Ilidža",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": "https://akademija-brezar.com/"
+    },
+    {
+        "redni_broj": "8",
+        "naziv": "Centar za obrazovanje odraslih SERDA",
+        "adresa": "Kolodvorska br. 6, Sarajevo",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": "https://serda.ba/bs"
+    },
+    {
+        "redni_broj": "9",
+        "naziv": "CPCD - SMART centar za obrazovanje odraslih",
+        "adresa": "Gradačačka bb, 71000 Sarajevo",
+        "fax": "",
+        "telefon": "033 644-810",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "10",
+        "naziv": "Internacionalni Univerzitet u Sarajevu - Centar za cjeloživotno učenje - IUS Life",
+        "adresa": "Hrasnička cesta 15, Ilidža",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": "https://www.ius.edu.ba/lifelong-learning-center-iuslife"
+    },
+    {
+        "redni_broj": "11",
+        "naziv": "JU Fakultet sporta i tjelesnog odgoja, Sarajevo",
+        "adresa": "Patriotske lige 41, Sarajevo",
+        "fax": "",
+        "telefon": "033/211-537",
+        "web_stranica": "http://www.fasto.unsa.ba/#"
+    },
+    {
+        "redni_broj": "12",
+        "naziv": "JU „Bosanski kulturni centar“ Kantona Sarajevo",
+        "adresa": "Branilaca Sarajeva br. 24, 71000 Sarajevo",
+        "fax": "",
+        "telefon": "033/586-777",
+        "web_stranica": "https://bkc.ba/"
+    },
+    {
+        "redni_broj": "13",
+        "naziv": "Privatna ustanova za obrazovanje odraslih „Senad Hair Academy“",
+        "adresa": "Grbavička br. 8a, Sarajevo",
+        "fax": "",
+        "telefon": "033/715-615",
+        "web_stranica": "https://en.senadhairacademy.com/skola-za-frizere"
+    },
+    {
+        "redni_broj": "14",
+        "naziv": "Privredna komora Kantona Sarajevo",
+        "adresa": "La Benevolencija br. 8, Sarajevo",
+        "fax": "033/250-138",
+        "telefon": "033/250-100",
+        "web_stranica": "https://pksa.ba/"
+    },
+    {
+        "redni_broj": "15",
+        "naziv": "Privredno društvo Edukativni centar \"FINconsult\" Sarajevo",
+        "adresa": "ul. Asima Ferhatovića br. 2, 71000 Sarajevo",
+        "fax": "",
+        "telefon": "033/204-769",
+        "web_stranica": "https://finconsult.ba/"
+    },
+    {
+        "redni_broj": "16",
+        "naziv": "Šabić d.o.o. - Pravni subjekat za obrazovanje odraslih",
+        "adresa": "Radićeva 4D, Sarajevo",
+        "fax": "",
+        "telefon": "033/557-020",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "17",
+        "naziv": "TRI D Centar za obrazovanje",
+        "adresa": "Alipašina bb, Sarajevo",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "18",
+        "naziv": "Ustanova za obrazovanje odraslih \"Nova zanimanja\"",
+        "adresa": "Hamdije Kreševljakovića br. 18, Sarajevo",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": "https://www.novazanimanja.ba/"
+    }
+]
