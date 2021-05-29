@@ -1,0 +1,467 @@
+﻿[
+    {
+        "redni_broj": "1",
+        "naziv": "BH Centar Predškolska ustanova Sarajevo",
+        "adresa": "6. mart br. 56, Hadžići",
+        "fax": "033-265-776",
+        "telefon": "033-265-775, 033-428-365",
+        "web_stranica": "http://www.bhcentar.ba/"
+    },
+    {
+        "redni_broj": "2",
+        "naziv": "Dječiji vrtić “SVETA OBITELJ”",
+        "adresa": "Nikole Šopa 50a, Ilidža – Stup",
+        "fax": "",
+        "telefon": "033/471-411",
+        "web_stranica": "http://caritas-sarajevo.ba/hr/pocetna/"
+    },
+    {
+        "redni_broj": "3",
+        "naziv": "JU \"Djeca Sarajeva\"",
+        "adresa": "La benevolencija 4 Sarajevo",
+        "fax": "663-677",
+        "telefon": "213-529",
+        "web_stranica": "https://djecasarajeva.edu.ba/"
+    },
+    {
+        "redni_broj": "4",
+        "naziv": "PPU \"Kids Land\"",
+        "adresa": "Džemala Bijedića 2",
+        "fax": "",
+        "telefon": "+387(0)33 022-231",
+        "web_stranica": "https://www.kidsland.ba/"
+    },
+    {
+        "redni_broj": "5",
+        "naziv": "PPU \"Osmijeh\"",
+        "adresa": "Braće Begića bb",
+        "fax": "",
+        "telefon": "+387(0)33 219-073",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "6",
+        "naziv": "PPU “Discover Me Academy”",
+        "adresa": "Avde Smajlovića 7.i 9., Sarajevo",
+        "fax": "",
+        "telefon": "033/860-000 , office@dma.ba",
+        "web_stranica": "https://discovermeacademy.ba/"
+    },
+    {
+        "redni_broj": "7",
+        "naziv": "Predškolska ustanova \"Bi-lingual nursery school\" Sarajevo",
+        "adresa": "Trebinjska 8a, Buća Potok, 71000 Sarajevo",
+        "fax": "",
+        "telefon": "033/651-708",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "8",
+        "naziv": "Predškolska ustanova \"Bonum\"",
+        "adresa": "Alipašina 22a",
+        "fax": "033/565-255",
+        "telefon": "033/565-255, 033/460-375",
+        "web_stranica": "https://www.vrticbonum.org/"
+    },
+    {
+        "redni_broj": "9",
+        "naziv": "Predškolska ustanova \"ĆU-ĆU\"",
+        "adresa": "Trg međunarodnog prijateljstva br. 8",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "10",
+        "naziv": "Predškolska ustanova \"Dječiji vrtić Egipat\"",
+        "adresa": "Bjelave 54",
+        "fax": "",
+        "telefon": "275-700, 275-701",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "11",
+        "naziv": "Predškolska ustanova \"Hokus Pokus\"",
+        "adresa": "Kranjčevića 13",
+        "fax": "",
+        "telefon": "062/119-998",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "12",
+        "naziv": "Predškolska ustanova \"International Montessori House\"",
+        "adresa": "Avde Smajlovića 9 i Buka 11",
+        "fax": "+387 33 267-966",
+        "telefon": "+387 33 718-140, +387 33 718-141, +387 33 267-965",
+        "web_stranica": "https://www.montessorihouse.ba/"
+    },
+    {
+        "redni_broj": "13",
+        "naziv": "Predškolska ustanova \"Kid IUS\"",
+        "adresa": "Hrasnička cesta 15, Ilidža",
+        "fax": "033/957-105",
+        "telefon": "033/957-490",
+        "web_stranica": "https://www.kidius.ba/"
+    },
+    {
+        "redni_broj": "14",
+        "naziv": "Predškolska ustanova \"Pony\"",
+        "adresa": "Alipašina 37",
+        "fax": "",
+        "telefon": "+387(0)33 205-532",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "15",
+        "naziv": "Predškolska ustanova \"Richmond Park International Preschool\"",
+        "adresa": "Francuske revolucije bb, Ilidža, Sarajevo",
+        "fax": "711-212",
+        "telefon": "944-163, 944-165",
+        "web_stranica": "https://preschool.rps.edu.ba/en/"
+    },
+    {
+        "redni_broj": "16",
+        "naziv": "Predškolska ustanova \"Sretno djetinjstvo\" Sarajevo",
+        "adresa": "Džemala Bijedića br. 297A",
+        "fax": "",
+        "telefon": "+387(0)33 695-013",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "17",
+        "naziv": "Predškolska ustanova \"Tvornica radosti\"",
+        "adresa": "Ferhadija 10b",
+        "fax": "",
+        "telefon": "261-777",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "18",
+        "naziv": "Predškolska ustanova SMART",
+        "adresa": "Kupreška br. 17",
+        "fax": "",
+        "telefon": "033/710-200",
+        "web_stranica": "https://smartkids.ba/bs/pocetna/"
+    },
+    {
+        "redni_broj": "19",
+        "naziv": "Predškolska ustanova u sastavu SOS Društvenog centra \"Hermann Gmeiner\"",
+        "adresa": "Semira Frašte bb",
+        "fax": "",
+        "telefon": "465-452",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "20",
+        "naziv": "Predškolska ustanova vrtić \"Aprilski Cvjetovi\"",
+        "adresa": "Envera Šehovića 1",
+        "fax": "",
+        "telefon": "+387(0)33 650 483",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "21",
+        "naziv": "Predškolska ustanova vrtić \"Bajka\"",
+        "adresa": "Vrbanjuša 138",
+        "fax": "",
+        "telefon": "+387(0)33 531-649",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "22",
+        "naziv": "Predškolska ustanova vrtić \"Biseri\"",
+        "adresa": "Očaktanum 60",
+        "fax": "",
+        "telefon": "+387(0)33 536-220",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "23",
+        "naziv": "Predškolska ustanova vrtić \"Dječiji grad\"",
+        "adresa": "Olimpijska bb",
+        "fax": "",
+        "telefon": "+387(0)33 469-591",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "24",
+        "naziv": "Predškolska ustanova vrtić \"Dunje\"",
+        "adresa": "Brčanska bb",
+        "fax": "",
+        "telefon": "+387(0)33 648 984",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "25",
+        "naziv": "Predškolska ustanova vrtić \"Ilijaš\"",
+        "adresa": "Kakanjska br. 15, Ilijaš",
+        "fax": "",
+        "telefon": "+387(0)33 402-217",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "26",
+        "naziv": "Predškolska ustanova vrtić \"Iskrica\"",
+        "adresa": "Patriotske lige br. 16.",
+        "fax": "",
+        "telefon": "+387(0)33 202-851",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "27",
+        "naziv": "Predškolska ustanova vrtić \"Kekec\"",
+        "adresa": "Ferde Hauptmana 36",
+        "fax": "",
+        "telefon": "+387(0)33 526-861",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "28",
+        "naziv": "Predškolska ustanova vrtić \"Košuta\"",
+        "adresa": "Aleja Lipa 49",
+        "fax": "",
+        "telefon": "+387(0)33 617-322",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "29",
+        "naziv": "Predškolska ustanova vrtić \"Labudovi\"",
+        "adresa": "Prvomajska 41",
+        "fax": "",
+        "telefon": "+387(0)33 643 194",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "30",
+        "naziv": "Predškolska ustanova vrtić \"Lane\"",
+        "adresa": "Hermana Koste 3",
+        "fax": "",
+        "telefon": "+387(0)33 202-981",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "31",
+        "naziv": "Predškolska ustanova vrtić \"Lastavica\"",
+        "adresa": "Gradačačka 145",
+        "fax": "",
+        "telefon": "+387(0)33 641-542",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "32",
+        "naziv": "Predškolska ustanova vrtić \"Leptirić\"",
+        "adresa": "Kranjčevićeva 23",
+        "fax": "",
+        "telefon": "+387(0)33 206-598",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "33",
+        "naziv": "Predškolska ustanova vrtić \"Makovi\"",
+        "adresa": "Maka Dizdara 12",
+        "fax": "",
+        "telefon": "+387(0)33 220-211",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "34",
+        "naziv": "Predškolska ustanova vrtić \"Mašnica\"",
+        "adresa": "Kemala Kapetanovića 25",
+        "fax": "",
+        "telefon": "+387(0)33 661-505",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "35",
+        "naziv": "Predškolska ustanova vrtić \"Pčelica\"",
+        "adresa": "Jekovac 1",
+        "fax": "",
+        "telefon": "+387(0)33 233-430",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "36",
+        "naziv": "Predškolska ustanova vrtić \"Radost\"",
+        "adresa": "A. Bojovića bb",
+        "fax": "",
+        "telefon": "+387(0)33 698-338",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "37",
+        "naziv": "Predškolska ustanova vrtić \"Ribica\"",
+        "adresa": "Igmanski put 85",
+        "fax": "",
+        "telefon": "+387(0)33 422-733",
+        "web_stranica": "",
+        "": ""
+    },
+    {
+        "redni_broj": "38",
+        "naziv": "Predškolska ustanova vrtić \"Rosica\"",
+        "adresa": "Paromlinska 7",
+        "fax": "",
+        "telefon": "+387(0)33 525-028",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "39",
+        "naziv": "Predškolska ustanova vrtić \"Šareni Voz\"",
+        "adresa": "Odobašina 10",
+        "fax": "",
+        "telefon": "+387(0)33 206-517",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "40",
+        "naziv": "Predškolska ustanova vrtić \"Skenderija\"",
+        "adresa": "Skenderija 20",
+        "fax": "",
+        "telefon": "+387(0)33 208-234",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "41",
+        "naziv": "Predškolska ustanova vrtić \"Slavuj\"",
+        "adresa": "Josipa Vancaša 25",
+        "fax": "",
+        "telefon": "+387(0)33 226-440",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "42",
+        "naziv": "Predškolska ustanova vrtić \"Srećica\"",
+        "adresa": "Feriza Merzuka bb",
+        "fax": "",
+        "telefon": "+387(0)33 460-527",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "43",
+        "naziv": "Predškolska ustanova vrtić \"Trešnjica\"",
+        "adresa": "Omladinska 12",
+        "fax": "",
+        "telefon": "+387(0)33 433-881",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "44",
+        "naziv": "Predškolska ustanova vrtić \"Višnjik\"",
+        "adresa": "Bolnička 38",
+        "fax": "",
+        "telefon": "+387(0)33 203-255",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "45",
+        "naziv": "Predškolska ustanova vrtić \"Vrapčić\"",
+        "adresa": "Husrefa Redžića 5",
+        "fax": "",
+        "telefon": "+387(0)33 205-004",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "46",
+        "naziv": "Predškolska ustanova vrtić \"Zeko\"",
+        "adresa": "Adema Buće 56",
+        "fax": "",
+        "telefon": "+387(0)33 644 880",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "47",
+        "naziv": "Predškolska ustanova “Akademija radosti”",
+        "adresa": "Emerika Bluma br. 27, Sarajevo",
+        "fax": "",
+        "telefon": "033/810-930",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "48",
+        "naziv": "Predškolska ustanova “Behar” Ilijaš",
+        "adresa": "Lješevo bb Ilijaš",
+        "fax": "402-712",
+        "telefon": "402-204",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "49",
+        "naziv": "Predškolska ustanova “Palčić” Sarajevo ",
+        "adresa": "Jukićeva 1. Sarajevo Koševsko brdo",
+        "fax": "",
+        "telefon": "061 183-869",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "50",
+        "naziv": "Predškolska ustanova “Sunce” Sarajevo ",
+        "adresa": "Sutjeska 1 Sarajevo",
+        "fax": "",
+        "telefon": "061 213-009",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "51",
+        "naziv": "Privatna predškolska ustanova ''Bloom'', Sarajevo",
+        "adresa": "Nalina 16, Stari Grad Sarajevo",
+        "fax": "033/865-564",
+        "telefon": "033/207-899",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "52",
+        "naziv": "Privatna predškolska ustanova vrtić „Bombon“",
+        "adresa": "Azize Šaćirbegović br. 9",
+        "fax": "",
+        "telefon": "061/192-254",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "53",
+        "naziv": "Privatna predškolska ustanova “Tom&Jerry”",
+        "adresa": "Dobrinjska br. 211, Sarajevo",
+        "fax": "",
+        "telefon": "060/3068482",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "54",
+        "naziv": "Privatna PU \"Cvrčak\"",
+        "adresa": "Saliha Udžvarlića br.1, Sarajevo",
+        "fax": "",
+        "telefon": "0617587-360",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "55",
+        "naziv": "Privatna ustanova Školski Centar Maarif Schools of Sarajevo (Škole „Maarif“ Sarajevo) - predškolska ustanova",
+        "adresa": "Hasiba Brankovića 2A, Sarajevo",
+        "fax": "",
+        "telefon": "062/271-004",
+        "web_stranica": "https://ba.maarifschools.org/country/1010/page/692/VRTI%C4%86"
+    },
+    {
+        "redni_broj": "56",
+        "naziv": "PU \"Waldorfski vrtić Kolibica\"",
+        "adresa": "Ismeta Alajbegovića Šerbe 22, Stup, 71000 Sarajevo",
+        "fax": "",
+        "telefon": "61719886",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "57",
+        "naziv": "Ustanova za predškolski odgoj i obrazovanje “AMEL i NUR”",
+        "adresa": "Hamze Čelenke 1, Ilidža",
+        "fax": "523-550",
+        "telefon": "523-550",
+        "web_stranica": "https://www.amelinur.ba/"
+    },
+    {
+        "redni_broj": "58",
+        "naziv": "Vrtić \"Sunce u Mjedenici\"",
+        "adresa": "Mjedenica 34",
+        "fax": "",
+        "telefon": "+387(0)33 207-962",
+        "web_stranica": ""
+    }
+]
