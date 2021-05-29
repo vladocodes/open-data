@@ -1,0 +1,290 @@
+﻿[
+    {
+        "redni_broj": "1",
+        "naziv": "Univerzitet u Sarajevu",
+        "adresa": "Obala Kulina Bana 7",
+        "fax": "226-379",
+        "telefon": "226-378",
+        "web_stranica": "https://www.unsa.ba/"
+    },
+    {
+        "redni_broj": "2",
+        "naziv": "Akademija likovnih umjetnosti",
+        "adresa": "Obala Maka Dizdara 3",
+        "fax": "664-883",
+        "telefon": "664-883",
+        "web_stranica": "https://www.alu.unsa.ba"
+    },
+    {
+        "redni_broj": "3",
+        "naziv": "Akademija scenskih umjetnosti",
+        "adresa": "Adresa: Obala Kulina Bana 11",
+        "fax": "272-361",
+        "telefon": "215-277",
+        "web_stranica": "https://www.asu.unsa.ba"
+    },
+    {
+        "redni_broj": "4",
+        "naziv": "Arhitektonski fakultet",
+        "adresa": "Patriotske lige 30",
+        "fax": "213-494",
+        "telefon": "663-944",
+        "web_stranica": "https://www.af.unsa.ba"
+    },
+    {
+        "redni_broj": "5",
+        "naziv": "Ekonomski fakultet",
+        "adresa": "Trg oslobođenja-Alija Izetbegović 1",
+        "fax": "275-994",
+        "telefon": "275-900",
+        "web_stranica": "https://www.efsa.unsa.ba"
+    },
+    {
+        "redni_broj": "6",
+        "naziv": "Elektrotehnički fakultet",
+        "adresa": "Zmaja od Bosne bb",
+        "fax": "250-725",
+        "telefon": "250-700",
+        "web_stranica": "https://www.etf.unsa.ba"
+    },
+    {
+        "redni_broj": "7",
+        "naziv": "Fakultet islamskih nauka",
+        "adresa": "Ćemerlina 54",
+        "fax": "232-981",
+        "telefon": "251-046",
+        "web_stranica": "https://www.fin.ba"
+    },
+    {
+        "redni_broj": "8",
+        "naziv": "Fakultet međunarodnih finansija i bankarstva",
+        "adresa": "Fra Anđela Zvizdovića 1",
+        "fax": "+ 387 (0)33 296 4",
+        "telefon": "+ 387 (0)33 296 4",
+        "web_stranica": "https://www.aubih.edu.ba"
+    },
+    {
+        "redni_broj": "9",
+        "naziv": "Fakultet političkih nauka",
+        "adresa": "Skenderija 72",
+        "fax": "666-884",
+        "telefon": "666-844",
+        "web_stranica": "https://www.fpnsa.edu.ba"
+    },
+    {
+        "redni_broj": "10",
+        "naziv": "Fakultet sporta i tjelesnog odgoja",
+        "adresa": "Patriotske lige 41",
+        "fax": "211-537",
+        "telefon": "213-602",
+        "web_stranica": "https://www.fasto.unsa.ba"
+    },
+    {
+        "redni_broj": "11",
+        "naziv": "Fakultet za kriminalistiku, kriminologiju i sigurnosne studije",
+        "adresa": "Zmaja od Bosne 8",
+        "fax": "561-216",
+        "telefon": "561-200",
+        "web_stranica": "https://www.fknbih.edu"
+    },
+    {
+        "redni_broj": "12",
+        "naziv": "Fakultet za saobraćaj i komunikacije",
+        "adresa": "Patriotske lige 41",
+        "fax": "212-764",
+        "telefon": "212-764",
+        "web_stranica": "https://www.fsk.unsa.ba"
+    },
+    {
+        "redni_broj": "13",
+        "naziv": "Fakultet za upravu - pridružena članica Univerziteta u Sarajevu",
+        "adresa": "Patriotske lige broj 41",
+        "fax": "554-146",
+        "telefon": "553-835",
+        "web_stranica": "https://fu.unsa.ba/"
+    },
+    {
+        "redni_broj": "14",
+        "naziv": "Fakultet zdravstvenih studija",
+        "adresa": "Bolnička 25",
+        "fax": "264-821",
+        "telefon": "264-820",
+        "web_stranica": "https://www.fzs.unsa.ba"
+    },
+    {
+        "redni_broj": "15",
+        "naziv": "Farmaceutski fakultet",
+        "adresa": "Zmaja od Bosne 8",
+        "fax": "033/586-356",
+        "telefon": "033/586-180",
+        "web_stranica": "https://www.ffsa.unsa.ba"
+    },
+    {
+        "redni_broj": "16",
+        "naziv": "Filozofski fakultet",
+        "adresa": "Franje Račkog 1",
+        "fax": "667-873",
+        "telefon": "253-100",
+        "web_stranica": "https://www.ff.unsa.ba"
+    },
+    {
+        "redni_broj": "17",
+        "naziv": "Građevinski fakultet",
+        "adresa": "Patriotske lige 30",
+        "fax": "200–158",
+        "telefon": "278-400",
+        "web_stranica": "https://www.gf.unsa.ba"
+    },
+    {
+        "redni_broj": "18",
+        "naziv": "Institut za genetičko inženjerstvo i biotehnologiju Sarajevo ",
+        "adresa": "Zmaja od Bosne 8",
+        "fax": "033 442 891",
+        "telefon": "033 220 926",
+        "web_stranica": "https://www.ingeb.ba/"
+    },
+    {
+        "redni_broj": "19",
+        "naziv": "Institut za istoriju Sarajevo",
+        "adresa": "Alipašina br. 9",
+        "fax": "+ 387 (0)33 217-2",
+        "telefon": "+387 (0)33 209-36",
+        "web_stranica": "https://www.iis.unsa.ba/"
+    },
+    {
+        "redni_broj": "20",
+        "naziv": "Institut za istraživanje zločina protiv čovječnosti i međunarodnog prava Sarajevo ",
+        "adresa": "Halida Nazečića 4",
+        "fax": "",
+        "telefon": "+387(0)33 561-350",
+        "web_stranica": "https://www.institut-genocid.unsa.ba/"
+    },
+    {
+        "redni_broj": "21",
+        "naziv": "Institut za jezik",
+        "adresa": "Hasana Kikića 12",
+        "fax": "206-864",
+        "telefon": "200-117",
+        "web_stranica": "https://www.izj.unsa.ba"
+    },
+    {
+        "redni_broj": "22",
+        "naziv": "Internacionalni Burč univerzitet - International Burch University ",
+        "adresa": "Francuske revolucije bb",
+        "fax": "+387(0)33 782 131",
+        "telefon": "+387(0)33 782 130",
+        "web_stranica": "https://www.ibu.edu.ba"
+    },
+    {
+        "redni_broj": "23",
+        "naziv": "Internacionalni univerzitet u Sarajevu - International University of Sarajevo",
+        "adresa": "Hrasnička cesta 15",
+        "fax": "+387 33 957 105",
+        "telefon": "+387 33 957 101/1",
+        "web_stranica": "https://www.ius.edu.ba"
+    },
+    {
+        "redni_broj": "24",
+        "naziv": "Katolički bogoslovni fakultet",
+        "adresa": "Josipa Štadlera 5",
+        "fax": "441-252",
+        "telefon": "533-516",
+        "web_stranica": "https://kbf.unsa.ba/"
+    },
+    {
+        "redni_broj": "25",
+        "naziv": "Mašinski fakultet",
+        "adresa": "Vilsonovo šetalište 9",
+        "fax": "653-055",
+        "telefon": "656-562",
+        "web_stranica": "https://www.mef.unsa.ba"
+    },
+    {
+        "redni_broj": "26",
+        "naziv": "Medicinski fakultet",
+        "adresa": "Čekaluša 90",
+        "fax": "203–670",
+        "telefon": "663-743",
+        "web_stranica": "https://www.mf.unsa.ba"
+    },
+    {
+        "redni_broj": "27",
+        "naziv": "Muzička akademija",
+        "adresa": "Josipa Štadlera 1/II",
+        "fax": "444-896",
+        "telefon": "200-299",
+        "web_stranica": "https://www.mas.unsa.ba"
+    },
+    {
+        "redni_broj": "28",
+        "naziv": "Orijentalni institut u Sarajevu",
+        "adresa": "Zmaja od Bosne 8b",
+        "fax": "387 33 225 353",
+        "telefon": "387 33 225 353",
+        "web_stranica": "https://www.ois.unsa.ba/"
+    },
+    {
+        "redni_broj": "29",
+        "naziv": "Pedagoški fakultet",
+        "adresa": "Skenderija 68",
+        "fax": "214–606",
+        "telefon": "214-607",
+        "web_stranica": "https://www.pf.unsa.ba"
+    },
+    {
+        "redni_broj": "30",
+        "naziv": "Poljoprivredno-prehrambeni fakultet",
+        "adresa": "Zmaja od Bosne 8",
+        "fax": "667 - 429",
+        "telefon": "653-033",
+        "web_stranica": "https://www.ppf.unsa.ba"
+    },
+    {
+        "redni_broj": "31",
+        "naziv": "Pravni fakultet",
+        "adresa": "Obala Kulina bana 7",
+        "fax": "206-355",
+        "telefon": "206-350",
+        "web_stranica": "https://www.pfsa.unsa.ba"
+    },
+    {
+        "redni_broj": "32",
+        "naziv": "Prirodno-matematički fakultet",
+        "adresa": "Zmaja od Bosne 35",
+        "fax": "649-359",
+        "telefon": "279-949",
+        "web_stranica": "https://www.pmf.unsa.ba"
+    },
+    {
+        "redni_broj": "33",
+        "naziv": "Stomatološki fakultet sa klinikama",
+        "adresa": "Bolnička 4a",
+        "fax": "443-395",
+        "telefon": "443-269",
+        "web_stranica": "https://www.sf.unsa.ba"
+    },
+    {
+        "redni_broj": "34",
+        "naziv": "Šumarski fakultet",
+        "adresa": "Zagrebačka 20",
+        "fax": "611-349",
+        "telefon": "611-349",
+        "web_stranica": "https://www.sfsa.unsa.ba"
+    },
+    {
+        "redni_broj": "35",
+        "naziv": "Univerzitet Sarajevo School of Science and Technology",
+        "adresa": "Hrasnička cesta 3a",
+        "fax": "+387(0)33 975-030",
+        "telefon": "+387(0)33 975-000",
+        "web_stranica": "https://www.ssst.edu.ba"
+    },
+    {
+        "redni_broj": "36",
+        "naziv": "Veterinarski fakultet",
+        "adresa": "Zmaja od Bosne 90",
+        "fax": "610-908",
+        "telefon": "655-922",
+        "web_stranica": "https://www.vfs.unsa.ba/"
+    }
+]
