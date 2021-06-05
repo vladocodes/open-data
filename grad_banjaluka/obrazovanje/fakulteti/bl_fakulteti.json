@@ -1,0 +1,137 @@
+﻿[
+    {
+        "redni_broj": "1",
+        "naziv": "Akademija umjetnosti",
+        "adresa": "Bulevar vojvode Petra Bojovića 1a",
+        "fax": "+387 51 348 805",
+        "telefon": "+387 51 348 800",
+        "web_stranica": "https://au.unibl.org/",
+        "email": "info@au.unibl.org"
+    },
+    {
+        "redni_broj": "2",
+        "naziv": "Arhitektonsko-građevinsko-geodetski fakultet",
+        "adresa": "Vojvode Stepe Stepanovića 77/3",
+        "fax": "+387 51 462 543",
+        "telefon": "+387 51 462 543",
+        "web_stranica": "https://aggf.unibl.org/",
+        "email": "info@aggf.unibl.org"
+    },
+    {
+        "redni_broj": "3",
+        "naziv": "Ekonomski fakultet",
+        "adresa": "Majke Jugovića 4",
+        "fax": "+387 51 430 053",
+        "telefon": " +387 51 430 010",
+        "web_stranica": "https://ef.unibl.org/",
+        "email": "info@ef.unibl.org"
+    },
+    {
+        "redni_broj": "4",
+        "naziv": "Elektrotehnički fakultet",
+        "adresa": "Patre 5",
+        "fax": "+387 51 211 408",
+        "telefon": "+387 51 221 820",
+        "web_stranica": "https://etf.unibl.org/",
+        "email": "info@etf.unibl.org"
+    },
+    {
+        "redni_broj": "5",
+        "naziv": "Mašinski fakultet",
+        "adresa": "Vojvode Stepe Stepanovića 71",
+        "fax": "+387 51 465 085",
+        "telefon": "+387 51 433 000",
+        "web_stranica": "http://mf.unibl.org/homepage/",
+        "email": "info@mf.unibl.org"
+    },
+    {
+        "redni_broj": "6",
+        "naziv": "Medicinski fakultet",
+        "adresa": "Save Mrkalja 14",
+        "fax": "+387 51 215 454",
+        "telefon": "+387 51 234 100",
+        "web_stranica": "https://med.unibl.org/",
+        "email": "info@med.unibl.org"
+    },
+    {
+        "redni_broj": "7",
+        "naziv": "Poljoprivredni fakultet",
+        "adresa": "Bulevar vojvode Petra Bojovića 1A",
+        "fax": "+387 51 312 580",
+        "telefon": "+387 51 330 901",
+        "web_stranica": "https://agro.unibl.org/bs/",
+        "email": "info@agro.unibl.org"
+    },
+    {
+        "redni_broj": "8",
+        "naziv": "Pravni fakultet",
+        "adresa": "Bulevar vojvode Stepe Stepanovića 77",
+        "fax": "+387 51 460 602",
+        "telefon": "+387 51 339 000",
+        "web_stranica": "https://pf.unibl.org/",
+        "email": "info@pf.unibl.org"
+    },
+    {
+        "redni_broj": "9",
+        "naziv": "Prirodno-matematički fakultet",
+        "adresa": "Mladena Stojanovića 2",
+        "fax": "+387 51 319 142",
+        "telefon": "+387 51 319 142",
+        "web_stranica": "https://pmf.unibl.org/",
+        "email": "info@pmf.unibl.org"
+    },
+    {
+        "redni_broj": "10",
+        "naziv": "Tehnološki fakultet",
+        "adresa": " Vojvode Stepe Stepanovića 73",
+        "fax": "+387 51 434 351",
+        "telefon": "+387 51 434 357",
+        "web_stranica": "https://tf.unibl.org/",
+        "email": "info@tf.unibl.org"
+    },
+    {
+        "redni_broj": "11",
+        "naziv": "Fakultet političkih nauka",
+        "adresa": "Bulevar vojvode Petra Bojovića 1a",
+        "fax": "+387 51 304 001",
+        "telefon": "+387 51 304 001",
+        "web_stranica": "https://fpn.unibl.org/sr/",
+        "email": "info@fpn.unibl.org"
+    },
+    {
+        "redni_broj": "12",
+        "naziv": "Fakultet fizičkog vaspitanja i sporta",
+        "adresa": "Bulevar vojvode Petra Bojovića 1a",
+        "fax": "+387 51 312 280",
+        "telefon": "+387 51 312 280",
+        "web_stranica": "http://www.ffvs.unibl.org/",
+        "email": "info@ffvs.unibl"
+    },
+    {
+        "redni_broj": "13",
+        "naziv": "Filološki fakultet",
+        "adresa": "Bulevar Vojvode Petra Bojovića 1a",
+        "fax": "+387 51 340 145",
+        "telefon": "+387 51 340 120",
+        "web_stranica": "https://www.flf.unibl.org/",
+        "email": "info@flf.unibl.org"
+    },
+    {
+        "redni_broj": "14",
+        "naziv": "Filozofski fakultet",
+        "adresa": "",
+        "fax": "+387 51 325 811",
+        "telefon": "+387 51 322 780",
+        "web_stranica": "https://ff.unibl.org/",
+        "email": "info@ff.unibl.org"
+    },
+    {
+        "redni_broj": "15",
+        "naziv": "Šumarski fakultet",
+        "adresa": "Bulevar Vojvode Stepe Stepanovića 75a",
+        "fax": "+387 51 460 550",
+        "telefon": "+387 51 464 628",
+        "web_stranica": "https://www.sf.unibl.org/",
+        "email": "info@sf.unibl.org"
+    }
+]
