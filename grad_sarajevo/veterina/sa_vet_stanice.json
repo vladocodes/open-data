@@ -1,0 +1,200 @@
+﻿[
+    {
+        "redni_broj": "1",
+        "naziv": "Društvo za veterinarske usluge VET CENTAR d.o.o.",
+        "ulica_broj": "Husrefa Redžića 7",
+        "općina": "Centar",
+        "telefon": "+387(0)62 347 489",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "2",
+        "naziv": "KJP \"Poljoprivredno dobro Butmir\" PJ Veterinarska stanica Sarajevo",
+        "ulica_broj": "Ilidža, Doglodi 119",
+        "općina": "Ilidža",
+        "telefon": "+387(0)33 621 286",
+        "email": "",
+        "web_stranica": "https://pdbutmir.com/"
+    },
+    {
+        "redni_broj": "3",
+        "naziv": "\"KETTI\" d.o.o.",
+        "ulica_broj": "Kolodvorska 12",
+        "općina": "Novo Sarajevo",
+        "telefon": "+387(0)63 383 203",
+        "email": "",
+        "web_stranica": "https://svijetljubimaca.ba/"
+    },
+    {
+        "redni_broj": "4",
+        "naziv": "Mr PET d.o.o.",
+        "ulica_broj": "Stupska do br. 19",
+        "općina": "Ilidža",
+        "telefon": "+387(0)61 937 178",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "5",
+        "naziv": "NOVI GRAD d.o.o.",
+        "ulica_broj": "Tjepovački put 2",
+        "općina": "Novi Grad",
+        "telefon": "+387(0)33 774 590",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "6",
+        "naziv": "\"Veterinarska medicina\" d.o.o. Ilidža",
+        "ulica_broj": "Ilidža, Stara cesta 4",
+        "općina": "Ilidža",
+        "telefon": "062 135 462, 061 388 230",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "7",
+        "naziv": "\"Provet\" d.o.o.",
+        "ulica_broj": "Hasana Merđanovića 2, Vogošća",
+        "općina": "Vogošća",
+        "telefon": "+387(0)33 481 126, +387(0)61 936 766",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "8",
+        "naziv": "\"City Vet\" d.o.o. Sarajevo",
+        "ulica_broj": "Hasiba Brankovića bb",
+        "općina": "Novi Grad",
+        "telefon": "+387(0)61 191 131",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "9",
+        "naziv": "\"VET LIFe\" d.o.o.",
+        "ulica_broj": "Sarajevo, Hajrudina Šabanije 2",
+        "općina": "Novi Grad",
+        "telefon": "+387(0)33 235 333",
+        "email": "vetlife@vetlife.ba",
+        "web_stranica": "https://vetlife.ba/"
+    },
+    {
+        "redni_broj": "10",
+        "naziv": "Veterinarska stanica \"DIVET\" d.o.o. Ilijaš",
+        "ulica_broj": "Ilijaš, Stari Ilijaš b.b.",
+        "općina": "Ilijaš",
+        "telefon": "+387(0)61 563 149",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "11",
+        "naziv": "Veterinarska stanica \"VET\" d.o.o Hadžići",
+        "ulica_broj": "Hadžići, Mrđana Đoke 50",
+        "općina": "Hadžići",
+        "telefon": "+387(0)33 418 556, +387(0)61 100 992",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "12",
+        "naziv": "KJP \"Veterinarska stanica\" d.o.o. Sarajevo Mikrobiološko kemijski laboratorij",
+        "ulica_broj": "Azize Šaćirbegović 16",
+        "općina": "Novo Sarajevo",
+        "telefon": "+387(0)33 767 025",
+        "email": "vetlabossa@hs-hkb.ba",
+        "web_stranica": "https://vssarajevo.ba/"
+    },
+    {
+        "redni_broj": "13",
+        "naziv": "KJP \"Veterinarska stanica\" d.o.o. Sarajevo",
+        "ulica_broj": "Nikole Šopa 41",
+        "općina": "Ilidža",
+        "telefon": "+387(0)33 770 350",
+        "email": "",
+        "web_stranica": "https://vssarajevo.ba/"
+    },
+    {
+        "redni_broj": "14",
+        "naziv": "KJP \"Veterinarska stanica\" d.o.o. Sarajevo Odjeljenje za dezinfekciju, dezinsekciju i deratizaciju",
+        "ulica_broj": "Nikole Šopa 41",
+        "općina": "Ilidža",
+        "telefon": "+387(0)33 767 025",
+        "email": "",
+        "web_stranica": "https://vssarajevo.ba/"
+    },
+    {
+        "redni_broj": "15",
+        "naziv": "KJP \"Veterinarska stanica\" d.o.o. Sarajevo Služba za preventivu i dijagnostiku zaraznih bolesti",
+        "ulica_broj": "Nikole Šopa 41",
+        "općina": "Ilidža",
+        "telefon": "+387(0)33 767 025",
+        "email": "",
+        "web_stranica": "https://vssarajevo.ba/"
+    },
+    {
+        "redni_broj": "16",
+        "naziv": "Veterinarska ambulanta Ilijaš",
+        "ulica_broj": "Bosanski put bb",
+        "općina": "Ilijaš",
+        "telefon": "+387(0)33 400 673",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "17",
+        "naziv": "Veterinarska ambulanta Slatina ",
+        "ulica_broj": "Slatina b.b",
+        "općina": "Centar",
+        "telefon": "+387(0)33 216 848",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "18",
+        "naziv": "Ambulanta Trnovo",
+        "ulica_broj": "Trnovo bb",
+        "općina": "Trnovo",
+        "telefon": "+387(0)33 439 133",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "19",
+        "naziv": "Veterinarska ambulanta Hadžići",
+        "ulica_broj": "Hadželi 30",
+        "općina": "Hadžići",
+        "telefon": "+387(0)33 420 266",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "20",
+        "naziv": "Veterinarska ambulanta Vogošća",
+        "ulica_broj": "Igmanska 35",
+        "općina": "Vogošća",
+        "telefon": "+387(0)33 482 213",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "21",
+        "naziv": "Veterinarska apoteka",
+        "ulica_broj": "Nikole Šopa 41",
+        "općina": "Ilidža",
+        "telefon": "+387(0)33 458 946",
+        "email": "",
+        "web_stranica": ""
+    },
+    {
+        "redni_broj": "22",
+        "naziv": "Ambulanta Stup",
+        "ulica_broj": "Nikole Šopa 41",
+        "općina": "Ilidža",
+        "telefon": "+387(0)33 770 360",
+        "email": "",
+        "web_stranica": ""
+    }
+]
