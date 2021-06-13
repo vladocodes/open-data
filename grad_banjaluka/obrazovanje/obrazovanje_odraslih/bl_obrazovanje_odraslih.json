@@ -1,0 +1,74 @@
+﻿[
+    {
+        "redni_broj": "1",
+        "naziv": "JU Centar za obrazovanje odraslih Banja Luka",
+        "adresa": "Grčka 4",
+        "fax": "",
+        "telefon": "+387 51 215 076",
+        "web_stranica": "",
+        "email": "info@spskola.com"
+    },
+    {
+        "redni_broj": "2",
+        "naziv": "Centar za obrazovanje odraslih -  Srednjoškolski centar \"Ljubiša Mladenović\"",
+        "adresa": "Despota Stefana Lazarevića bb",
+        "fax": "+387 51 379 411",
+        "telefon": "+387 51 379 410",
+        "web_stranica": "http://obrazovanje.co/",
+        "email": "info@jucoobl.com"
+    },
+    {
+        "redni_broj": "3",
+        "naziv": "Zavod za obrazovanje odraslih",
+        "adresa": "Vuka Karadžića 1",
+        "fax": "+387 51 227 863",
+        "telefon": "+387 51 228 280",
+        "web_stranica": "http://www.mpoo.org/",
+        "email": "mpoo@mpoo.org"
+    },
+    {
+        "redni_broj": "4",
+        "naziv": "Obrazovanje odraslih - Srednjoškolski centar  \"Gaudeamus\"",
+        "adresa": "Jovana Dučića 23a",
+        "fax": "",
+        "telefon": "+387 51 248 339",
+        "web_stranica": "https://scgaudeamus.com/zanimanja-obrazovanje-odraslih/",
+        "email": "info@scgaudeamus.com"
+    },
+    {
+        "redni_broj": "5",
+        "naziv": "Škola za obrazovanje odraslih „OPTIMUS-NUBL“",
+        "adresa": "Veljkа Mlаđenovićа 12e",
+        "fax": "+387 51 456 602",
+        "telefon": "+387 51 456 600",
+        "web_stranica": "https://optimus.nubl.org/",
+        "email": "info@optimus.nubl.org"
+    },
+    {
+        "redni_broj": "6",
+        "naziv": "Ustanova za stručno obrazovanje odraslih \"WMTA\"",
+        "adresa": "Dr Mladena Stojanovića 4",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": "https://wmta-edu.com/",
+        "email": "info@wmta-edu.com"
+    },
+    {
+        "redni_broj": "7",
+        "naziv": "Obrazovanje odraslih - Srednjoškolski centar  \"GEMIT-Apeiron\"",
+        "adresa": "Pere Krece 13",
+        "fax": "",
+        "telefon": "",
+        "web_stranica": "http://www.apeiron-gemit.org/obrazovanje-odraslih/",
+        "email": "srednjaskola@apeiron-ssc.com"
+    },
+    {
+        "redni_broj": "8",
+        "naziv": "Socijalno-edukativni centar",
+        "adresa": "Dr. Mladena Stojanovića 6",
+        "fax": "+387 51  321 601",
+        "telefon": "+387 51 231 600",
+        "web_stranica": "https://sec.ba/",
+        "email": "info@sec.ba"
+    }
+]
